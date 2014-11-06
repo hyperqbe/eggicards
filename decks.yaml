@@ -1,0 +1,40 @@
+- name: Chapter 1
+  cards:
+   - front:
+      - 1
+      - one
+     back:
+      - one
+      - 1
+   - front:
+      - 2
+     back:
+      - 2
+   - front:
+      - 3
+     back:
+      - 3
+- name: Chapter 2
+  cards:
+   - front:
+      - hi
+      - hello
+     back:
+      - سلام
+      - salam
+      - salaam
+      - salAm
+   - front:
+      - to work
+      - work
+     back:
+      - کار کردن
+      - kaar kardan
+      - kar kardan
+      - kAr kardan
+   - front:
+      - to eat
+      - eat
+     back:
+      - خوردن
+      - khordan

@@ -1,0 +1,26 @@
+body {
+  background-color: lightblue;
+}
+.cardandresponse {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.card {
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  height: 20em;
+}
+.question {
+  font-size: xx-large;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+.response {
+  margin-left: auto;
+  margin-right: auto;
+}
