@@ -39,9 +39,13 @@ Card.prototype.guess = function(response) {
 };
 
 var CardState = {
+  // Show the card as soon as possible.
   NOW: 'NOW',
+  // Show the card whenever, but before filler cards.
   WHENEVER: 'WHENEVER',
-  DONE: 'DONE',
+  // Card never needs to be shown again, but may be used as filler.
+  FILLER: 'FILLER',
+  // Card should not be shown now because it was shown too recently.
   NOT_NOW: 'NOT_NOW',
 };
 
@@ -63,15 +67,15 @@ function GameSession(decks) {
 }
 
 GameSession.prototype.classifyCard = function (card) {
-  if (card.misses === 0 || card.hitStreak >= 6) {
+  if (this.cardIsDone(card)) {
     if (this.cardsShown < card.lastShownTime + 3) return CardState.NOT_NOW;
-    if (card.hitStreak >= 3) return CardState.DONE;
-    else return CardState.WHENEVER;
+    return CardState.FILLER;
   }
-  
-  if (card.hitStreak >= 3) {
+
+  // If we're not done and not in the memory training phase for this card...
+  if (card.misses === 0 || card.hitStreak >= 3) {
     if (this.cardsShown < card.lastShownTime + 3) return CardState.NOT_NOW;
-    return CardState.WHENEVER;
+    else return CardState.WHENEVER;
   }
   
   var waitPeriod = 1 << (card.hitStreak + 1)
@@ -81,10 +85,15 @@ GameSession.prototype.classifyCard = function (card) {
   return CardState.NOW;
 }
 
+GameSession.prototype.cardIsDone = function (card) {
+  var threshold = (card.misses === 0) ? 3 : 6;
+  return card.hitStreak >= threshold;
+}
+
 GameSession.prototype.pickNextCard = function() {
   var cardsByState = {}
   var statesInOrder = [
-      CardState.NOW, CardState.WHENEVER, CardState.DONE, CardState.NOT_NOW]
+      CardState.NOW, CardState.WHENEVER, CardState.FILLER, CardState.NOT_NOW]
   for (var i = 0; i < statesInOrder.length; i++) {
     cardsByState[statesInOrder[i]] = [];
   }
@@ -94,7 +103,7 @@ GameSession.prototype.pickNextCard = function() {
     var card = this.cards[i];
     var state = this.classifyCard(card);
 
-    if (state != CardState.DONE) allDone = false;
+    if (!this.cardIsDone(card)) allDone = false;
 
     cardsByState[state].push(card);
   }
@@ -219,7 +228,8 @@ UserInterface.cardColor = function(card) {
 
 UserInterface.prototype.showQuestion = function(card) {
   this.questionElem.innerHTML = card.question;
-  this.answerElem.innerHTML = '';
+  // We use &nbsp; to make sure that the answer element retains its height.
+  this.answerElem.innerHTML = '&nbsp;';
   this.cardElem.style.backgroundColor = UserInterface.cardColor(card);
 }
 
