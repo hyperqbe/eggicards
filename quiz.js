@@ -28,15 +28,12 @@ Card.prototype.responseMatches = function(response, answer) {
     'u': ['u', 'oo'],
     'i': ['i', 'y', 'ee'],
     'A': ['aa', 'a'],
-    'h$': ['e$', 'eh$'],
+    'E': ['e', 'eh'],
   };
 
   if (response === answer) return true;
   response = response.toLowerCase();
   if (response === answer) return true;
-
-  response = response + '$';
-  answer = answer + '$';
 
   var responseIndex = 0;
   var answerIndex = 0;

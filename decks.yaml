@@ -36,7 +36,7 @@
       - here
    - front:
       - پنجره 
-      - panjarh
+      - panjarE
      back:
       - window
    - front:
@@ -129,7 +129,7 @@
       - purse
    - front:
       - مکالمه 
-      - mokAlemh
+      - mokAlemE
      back:
       - conversation
    - front:
@@ -156,27 +156,397 @@
       - yA
      back:
       - or
-- name: Chapter 2
+- name: Chapter 5
   cards:
    - front:
-      - hi
-      - hello
+      - آنها 
+      - AnhA
+      - unhA
      back:
-      - سلام
-      - salam
-      - salaam
-      - salAm
+      - they
+      - those
    - front:
-      - to work
-      - work
+      - اسم 
+      - esm
      back:
-      - کار کردن
-      - kaar kardan
-      - kar kardan
-      - kAr kardan
+      - name
    - front:
+      - اهل 
+      - ahl
+     back:
+      - citizen
+   - front:
+      - بزرگ 
+      - bozorg
+     back:
+      - big
+      - large
+   - front:
+      - پسر 
+      - pesar
+     back:
+      - boy
+   - front:
+      - خانه 
+      - xAnE
+      - xunE
+     back:
+      - house
+      - home
+   - front:
+      - تمرین 
+      - tamrin
+     back:
+      - exercise
+   - front:
+      - در 
+      - dar
+      - tu
+     back:
+      - in
+   - front:
+      - چطور 
+      - chetor
+     back:
+      - how
+   - front:
+      - حال 
+      - hAl
+     back:
+      - health
+   - front:
+      - دختر 
+      - doxtar
+     back:
+      - girl
+   - front:
+      - زبان 
+      - zabAn
+      - zabun
+     back:
+      - language, tongue
+      - language
+      - tongue
+   - front:
+      - شماره 
+      - shomArE
+     back:
+      - number
+   - front:
+      - شهر 
+      - shahr
+     back:
+      - city
+   - front:
+      - صحیح 
+      - sahih
+     back:
+      - correct, true
+      - correct
+      - true
+   - front:
+      - عکس 
+      - aks
+     back:
+      - photo
+      - picture
+   - front:
+      - غلط 
+      - qalat
+     back:
+      - wrong, false
+      - wrong
+      - false
+   - front:
+      - فقط 
+      - faqat
+     back:
+      - only
+   - front:
+      - قشنگ 
+      - qashang
+     back:
+      - lovely, nice
+      - lovely
+      - nice
+   - front:
+      - کوچک 
+      - kuchek
+      - kuchik
+     back:
+      - small
+   - front:
+      - کی 
+      - ki
+     back:
+      - who
+- name: Chapter 6
+  cards:
+   - front:
+      - ایشان
+      - ishAn
+      - ishun
+     back:
+      - they (formal)
+      - they
+   - front:
+      - به 
+      - bE
+     back:
+      - to
+   - front:
+      - تو 
+      - to
+     back:
+      - you (informal)
+      - you
+   - front:
+      - حاضر 
+      - hAzer
+     back:
+      - present
+      - ready
+   - front:
+      - خانواده 
+      - xAnevAdE
+      - xunevAdE
+     back:
+      - family
+   - front:
+      - خواندن 
+      - xAndan
+      - xundan
+     back:
+      - to read
+      - read
+   - front:
+      - دانشگاه 
+      - dAneshgAh
+     back:
+      - university
+   - front:
+      - درس خواندن 
+      - dars xAndan
+      - dars xundan
+     back:
+      - to study
+      - study
+   - front:
+      - دوست 
+      - dust
+     back:
+      - friend
+   - front:
+      - رفتن 
+      - raftan
+     back:
+      - to go
+      - go
+   - front:
+      - زندگی 
+      - zendegi
+     back:
+      - life
+   - front:
+      - زندگی کردن 
+      - zendegi kardan
+     back:
+      - to live
+      - live
+   - front:
+      - زیاد 
+      - ziAd
+     back:
+      - many, much
+      - many
+      - much
+   - front:
+      - فامیل 
+      - fAmil
+     back:
+      - family
+   - front:
+      - کدام 
+      - kodAm
+      - kodum
+     back:
+      - which
+   - front:
+      - کردن 
+     back:
+      - to do
+      - do
+   - front:
+      - کشور 
+      - keshvar
+     back:
+      - country
+   - front:
+      - نفر 
+      - nafar
+     back:
+      - person
+   - front:
+      - هشت 
+      - hasht
+     back:
+      - eight
+      - 8
+   - front:
+      - پدر
+      - pedar
+     back:
+      - father
+   - front:
+      - مادر 
+      - mAdar
+     back:
+      - mother
+   - front:
+      - برادر 
+      - barAdar
+     back:
+      - brother
+   - front:
+      - خواهر 
+      - xAhar
+     back:
+      - sister
+- name: Chapter 7
+  cards:
+   - front:
+      - آسان 
+      - AsAn
+      - Asun
+     back:
+      - easy
+   - front:
+      - آمدن 
+      - Amadan
+      - umadan
+     back:
+      - to come
+      - come
+   - front:
+      - امّا
+      - ammA
+      - amA
+     back:
+      - but
+   - front:
+      - با
+      - bA
+     back:
+      - with
+   - front:
+      - باهم 
+      - bAham
+      - bA ham
+     back:
+      - together
+   - front:
+      - چای 
+      - chAi
+      - chAyi
+     back:
+      - tea
+   - front:
+      - پنیر 
+      - panir
+     back:
+      - cheese
+   - front:
+      - خواب 
+      - xAb
+     back:
+      - to sleep
+      - sleep
+   - front:
+      - خوابگاه 
+      - xAbgAh
+     back:
+      - dormitory
+      - dorm
+   - front:
+      - خوردن 
+      - xordan
+     back:
       - to eat
       - eat
+   - front:
+      - داشتن 
+      - dAshtan
      back:
-      - خوردن
-      - khordan
+      - to have
+      - have
+   - front:
+      - دوست داشتن 
+      - dust dAshtan
+     back:
+      - to like
+      - like
+   - front:
+      - شیر 
+      - shir
+     back:
+      - milk
+   - front:
+      - صبح 
+      - sobh
+     back:
+      - morning
+   - front:
+      - صبحانه 
+      - sobhAnE
+      - sobhunE
+     back:
+      - breakfast
+   - front:
+      - سفر 
+      - sefr
+     back:
+      - zero
+   - front:
+      - قهوه 
+      - qahvE
+     back:
+      - coffee
+   - front:
+      - کره 
+      - karE
+     back:
+      - butter
+   - front:
+      - مربا 
+      - morabA
+     back:
+      - jam
+   - front:
+      - نان 
+      - nAn
+      - nun
+     back:
+      - bread
+   - front:
+      - مثلاً
+      - مثلا
+      - masalan
+     back:
+      - for example
+   - front:
+      - معمولاً
+      - معمولاً
+      - ma'mulan
+     back:
+      - usually
+   - front:
+      - نه 
+      - noh
+     back:
+      - nine
+      - 9
+   - front:
+      - هر 
+     back:
+      - each
+      - every
