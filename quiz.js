@@ -29,6 +29,7 @@ Card.prototype.responseMatches = function(response, answer) {
     'i': ['i', 'y', 'ee'],
     'A': ['aa', 'a'],
     'E': ['e', 'eh'],
+    "'": ["'", ''],
   };
 
   if (response === answer) return true;

@@ -550,3 +550,146 @@
      back:
       - each
       - every
+- name: Chapter 8
+  cards:
+   - front:
+      - از 
+      - az
+     back:
+      - from
+   - front:
+      - بعد 
+      - ba'd
+      - ba'ad
+     back:
+      - next
+      - later
+   - front:
+      - بعد از 
+      - ba'd az
+      - ba'ad az
+     back:
+      - after
+   - front:
+      - بودن 
+      - budan
+     back:
+      - to be
+      - be
+   - front:
+      - بیدار 
+      - bidAr
+     back:
+      - awake
+   - front:
+      - خندیدن 
+      - xandidan
+     back:
+      - to laugh
+      - laugh
+   - front:
+      - بیدار شدن 
+      - bidAr shodan
+     back:
+      - to wake up
+      - wake up
+   - front:
+      - خوشمزه 
+      - xoshmazE
+     back:
+      - delicious
+      - tasty
+   - front:
+      - درست 
+      - dorost
+     back:
+      - correct
+      - right
+   - front:
+      - درست کردن 
+      - dorost kardan
+     back:
+      - to make
+      - make
+      - to cook
+      - cook
+   - front:
+      - ده 
+      - dah
+     back:
+      - ten
+      - 10
+   - front:
+      - دیروز 
+      - diruz
+     back:
+      - yesterday
+   - front:
+      - دیشب 
+      - dishab
+     back:
+      - last night
+      - yesterday night
+   - front:
+      - رستوران 
+      - resturAn
+     back:
+      - restaurant
+   - front:
+      - شام 
+      - shAm
+     back:
+      - dinner
+      - supper
+   - front:
+      - شدن 
+      - shodan
+     back:
+      - to become
+      - become
+   - front:
+      - کی 
+      - kei
+     back:
+      - when
+   - front:
+      - گذشته 
+      - gozashtE
+     back:
+      - last, past
+      - past
+      - last
+   - front:
+      - مال 
+      - mAl
+     back:
+      - property
+   - front:
+      - ناهار 
+      - nAhAr
+     back:
+      - lunch
+   - front:
+      - هم 
+      - ham
+     back:
+      - also
+      - too
+   - front:
+      - شب 
+      - shab
+     back:
+      - night
+      - evening
+   - front:
+      - ساعت 
+      - sA'at
+     back:
+      - watch, hour
+      - watch
+      - hour
+   - front:
+      - خوابیدن
+      - xAbidan
+     back:
+      - to sleep
