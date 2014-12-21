@@ -20,10 +20,62 @@ function Card(elem, isFrontSelected) {
   }
 }
 
+Card.prototype.responseMatches = function(response, answer) {
+  mapping = {
+    'ch': ['ch'],
+    'q': ['q', 'gh'],
+    'x': ['x', 'kh'],
+    'u': ['u', 'oo'],
+    'i': ['i', 'y', 'ee'],
+    'A': ['aa', 'a'],
+    'h$': ['e$', 'eh$'],
+  };
+
+  if (response === answer) return true;
+  response = response.toLowerCase();
+  if (response === answer) return true;
+
+  response = response + '$';
+  answer = answer + '$';
+
+  var responseIndex = 0;
+  var answerIndex = 0;
+  while (answerIndex < answer.length && responseIndex < response.length) {
+    var origAnswerIndex = answerIndex;
+    
+    var mappingFound = false;
+    for (var answerChunk in mapping) {
+      if (!mapping.hasOwnProperty(answerChunk)) continue;
+      if (answer.substring(answerIndex, answerIndex + answerChunk.length)
+          === answerChunk) {
+        mappingFound = true;
+        for (var i = 0; i < mapping[answerChunk].length; ++i) {
+          responseChunk = mapping[answerChunk][i];
+          if (response.substring(responseIndex,
+                                 responseIndex + responseChunk.length)
+              === responseChunk) {
+            answerIndex += answerChunk.length;
+            responseIndex += responseChunk.length;
+            break;
+          }
+        }
+        break;
+      }
+    }
+    if (!mappingFound && answer[answerIndex] == response[responseIndex]) {
+      answerIndex++;
+      responseIndex++;
+    }
+    if (answerIndex == origAnswerIndex) break;
+  }
+
+  return responseIndex == response.length && answerIndex == answer.length
+}
+
 Card.prototype.guess = function(response) {
   var success = false;
   for (var i = 0; i < this.acceptableAnswers.length; i++) {
-    if (response === this.acceptableAnswers[i]) {
+    if (this.responseMatches(response, this.acceptableAnswers[i])) {
       success = true;
       break;
     }
@@ -191,10 +243,15 @@ UserInterface.prototype.setGameSession = function(gameSession) {
   var responseElem = this.responseElem;
   var gameSession = this.gameSession;
   this.formElem.onsubmit = function() {
-    var value = responseElem.value.replace(/^\s+|\s+$/g, '');
-    gameSession.processInput(value);
-    responseElem.value = '';
-    return false;
+    try {
+      var value = responseElem.value.replace(/^\s+|\s+$/g, '');
+      gameSession.processInput(value);
+      responseElem.value = '';
+    } catch (err) {
+      window.alert(err);
+    } finally {
+      return false;
+    }
   }
   this.selectElem.onchange = function() {
     gameSession.processDeckChange();

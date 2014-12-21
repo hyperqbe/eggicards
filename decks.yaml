@@ -1,19 +1,161 @@
-- name: Chapter 1
+- name: Chapter 4
   cards:
    - front:
-      - 1
-      - one
+      - آقا
+      - AqA
      back:
-      - one
-      - 1
+      - man
+      - mister
+      - mr
+      - sir
    - front:
-      - 2
+      - آنجا
+      - AnjA
+      - unjA
      back:
-      - 2
+      - there
    - front:
-      - 3
+      - اتاق
+      - otAq
      back:
-      - 3
+      - room
+      - bedroom
+   - front:
+      - او 
+      - u
+      - un
+     back:
+      - he, she, it
+      - he
+      - she
+      - it
+   - front:
+      - اینجا 
+      - injA
+     back:
+      - here
+   - front:
+      - پنجره 
+      - panjarh
+     back:
+      - window
+   - front:
+      - بد 
+      - bad
+     back:
+      - bad
+   - front:
+      - پنج 
+      - panj
+     back:
+      - five
+      - 5
+   - front:
+      - تا 
+      - tA
+     back:
+      - unit, piece
+      - unit
+      - piece
+   - front:
+      - جا 
+      - jA
+     back:
+      - place
+   - front:
+      - چند 
+      - chand
+     back:
+      - how many, several
+      - how many
+      - several
+   - front:
+      - چهار 
+      - chahAr
+      - chehAr
+     back:
+      - four
+      - 4
+   - front:
+      - خانم 
+      - xAnom
+      - xAnum
+     back:
+      - woman, lady, Miss, Mrs.
+      - woman
+      - lady
+      - Miss
+      - Mrs
+      - Mrs.
+   - front:
+      - خوب 
+      - xub
+     back:
+      - good, well
+      - good
+      - well
+   - front:
+      - خیلی 
+      - xeili
+     back:
+      - very
+   - front:
+      - شش 
+      - shesh
+      - shish
+     back:
+      - six
+      - 6
+   - front:
+      - کجا 
+      - kojA
+     back:
+      - where
+   - front:
+      - در 
+      - dar
+     back:
+      - door
+   - front:
+      - صندلی 
+      - sandali
+     back:
+      - chair
+   - front:
+      - کیف 
+      - kif
+     back:
+      - purse, bag
+      - purse
+   - front:
+      - مکالمه 
+      - mokAlemh
+     back:
+      - conversation
+   - front:
+      - و 
+      - va
+      - o
+     back:
+      - and
+   - front:
+      - هفت 
+      - haft
+     back:
+      - seven
+      - 7
+   - front:
+      - میز 
+      - miz
+     back:
+      - table, desk
+      - table
+      - desk
+   - front:
+      - یا
+      - yA
+     back:
+      - or
 - name: Chapter 2
   cards:
    - front:
