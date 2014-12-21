@@ -693,3 +693,134 @@
       - xAbidan
      back:
       - to sleep
+- name: Chapter 9
+  cards:
+   - front:
+      - انجام 
+      - anjAm
+     back:
+      - fulfillment
+      - fulfilment
+   - front:
+      - انجام دادن 
+      - anjAm dAdan
+     back:
+      - to fulfil
+      - fulfil
+      - to fulfill
+      - fulfill
+   - front:
+      - اوّل
+      - اول 
+      - avval
+     back:
+      - first
+   - front:
+      - اوکراین 
+      - ukrAin
+     back:
+      - Ukraine
+   - front:
+      - باز 
+      - bAz
+     back:
+      - open
+   - front:
+      - بعضی 
+      - ba'azi
+      - ba'zi
+     back:
+      - some
+   - front:
+      - تکلیف 
+      - taklif
+     back:
+      - assignment
+   - front:
+      - جمله 
+      - jomlE
+     back:
+      - sentence
+   - front:
+      - جواب دادن 
+      - javAb dAdan
+     back:
+      - to answer
+      - answer
+   - front:
+      - خواهش 
+      - xAhesh
+     back:
+      - request
+   - front:
+      - خواهش کردن 
+      - xAhesh kardan
+     back:
+      - to request
+      - request
+      - to beg
+      - beg
+   - front:
+      - دادن 
+      - dAdan
+     back:
+      - to give
+      - give
+   - front:
+      - در باری 
+      - dar bAreye
+     back:
+      - about
+   - front:
+      - دستور 
+      - dastur
+     back:
+      - grammar
+   - front:
+      - سطر 
+      - satr
+     back:
+      - line
+   - front:
+      - کار کردن 
+      - kAr kardan
+     back:
+      - to work
+      - work
+   - front:
+      - کتابخانه  
+      - ketAbxAnE
+      - ketAbxunE
+     back:
+      - library
+   - front:
+      - گاهی 
+      - gAhi
+     back:
+      - sometimes
+   - front:
+      - نوشتن 
+      - neveshtan
+     back:
+      - to write
+      - write
+   - front:
+      - بوسنی 
+      - bosni
+     back:
+      - Bosnia
+   - front:
+      - ژاپن 
+      - jApon
+     back:
+      - Japan
+   - front:
+      - فرانسه 
+      - farAnsE
+     back:
+      - France
+   - front:
+      - بنگلادش 
+      - banglAdesh
+     back:
+      - Bangladesh
