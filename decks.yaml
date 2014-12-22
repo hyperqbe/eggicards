@@ -26,6 +26,8 @@
       - un
      back:
       - he, she, it
+      - him
+      - her
       - he
       - she
       - it
@@ -37,6 +39,7 @@
    - front:
       - پنجره 
       - panjarE
+      - panjerE
      back:
       - window
    - front:
@@ -68,10 +71,11 @@
      back:
       - how many, several
       - how many
+      - how much
       - several
    - front:
       - چهار 
-      - chahAr
+      - chAhAr
       - chehAr
      back:
       - four
@@ -127,6 +131,7 @@
      back:
       - purse, bag
       - purse
+      - bag
    - front:
       - مکالمه 
       - mokAlemE
@@ -163,6 +168,7 @@
       - AnhA
       - unhA
      back:
+      - them
       - they
       - those
    - front:
@@ -185,7 +191,9 @@
       - پسر 
       - pesar
      back:
+      - boy, son
       - boy
+      - son
    - front:
       - خانه 
       - xAnE
@@ -218,7 +226,9 @@
       - دختر 
       - doxtar
      back:
+      - girl, daughter
       - girl
+      - daughter
    - front:
       - زبان 
       - zabAn
@@ -243,6 +253,7 @@
      back:
       - correct, true
       - correct
+      - right
       - true
    - front:
       - عکس 
@@ -255,6 +266,7 @@
       - qalat
      back:
       - wrong, false
+      - incorrect
       - wrong
       - false
    - front:
@@ -266,12 +278,13 @@
       - قشنگ 
       - qashang
      back:
-      - lovely, nice
+      - lovely, nice, beautiful
       - lovely
       - nice
+      - beautiful
    - front:
       - کوچک 
-      - kuchek
+      - kuchak
       - kuchik
      back:
       - small
@@ -289,6 +302,7 @@
      back:
       - they (formal)
       - they
+      - them
    - front:
       - به 
       - bE
@@ -502,7 +516,7 @@
      back:
       - breakfast
    - front:
-      - سفر 
+      - صفر
       - sefr
      back:
       - zero
@@ -535,7 +549,7 @@
       - for example
    - front:
       - معمولاً
-      - معمولاً
+      - معمولا
       - ma'mulan
      back:
       - usually
@@ -680,7 +694,6 @@
       - shab
      back:
       - night
-      - evening
    - front:
       - ساعت 
       - sA'at
@@ -713,6 +726,7 @@
       - اوّل
       - اول 
       - avval
+      - aval
      back:
       - first
    - front:
@@ -736,6 +750,7 @@
       - taklif
      back:
       - assignment
+      - homework
    - front:
       - جمله 
       - jomlE
@@ -745,8 +760,11 @@
       - جواب دادن 
       - javAb dAdan
      back:
+      - to answer, to respond
       - to answer
       - answer
+      - to respond
+      - respond
    - front:
       - خواهش 
       - xAhesh
@@ -767,8 +785,9 @@
       - to give
       - give
    - front:
-      - در باری 
-      - dar bAreye
+      - در باره
+      - dar bArE
+      - dar bAreie
      back:
       - about
    - front:
@@ -884,15 +903,19 @@
       - زود 
       - zud
      back:
+      - soon, early
       - soon
+      - early
    - front:
+      - سؤال
       - سوال 
-      - soAl
+      - so'Al
      back:
       - question
    - front:
-      - سوال کردن 
-      - soAl kardan
+      - ﺱﺅﺎﻟ کردن 
+      - ﺱﻭﺎﻟ کردن 
+      - so'Al kardan
      back:
       - to ask
       - ask
