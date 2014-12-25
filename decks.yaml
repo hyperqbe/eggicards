@@ -892,6 +892,7 @@
    - front:
       - دوشنبه 
       - doshanbE
+      - doshambE
      back:
       - Monday
    - front:
@@ -962,6 +963,7 @@
    - front:
       - یکشنبه 
       - yekshanbE
+      - yekshambE
      back:
       - Sunday
    - front:
@@ -1392,6 +1394,7 @@
    - front:
       - پنجشنبه 
       - panjshanbe
+      - panjshambe
      back:
       - Thursday
    - front:
@@ -1440,7 +1443,9 @@
    - front:
       - چهارشنبه 
       - chahArshanbE
+      - chahArshambE
       - chehArshanbE
+      - chehArshambE
      back:
       - Wednesday
    - front:
@@ -1486,6 +1491,7 @@
    - front:
       - سهشنبه 
       - sEshanbE
+      - sEshambE
      back:
       - Tuesday
    - front:
@@ -1501,6 +1507,7 @@
    - front:
       - شنبه 
       - shanbE
+      - shambE
      back:
       - Sunday
    - front:
@@ -1537,3 +1544,270 @@
       - minibus
      back:
       - minibus
+- name: Chapter 15
+  cards:
+   - front:
+      - آب 
+      - Ab
+     back:
+      - water
+   - front:
+      - آهسته 
+      - AhestE
+     back:
+      - slowly
+      - slow
+   - front:
+      - اغلب 
+      - aqlab
+     back:
+      - often
+   - front:
+      - اگر 
+      - agar
+      - agE
+     back:
+      - if
+   - front:
+      - برداشتن
+      - bardAshtan
+     back:
+      - to take
+      - take
+   - front:
+      - بشقاب 
+      - boshqAb
+     back:
+      - plate
+   - front:
+      - تند
+      - tond
+     back:
+      - fast
+   - front:
+      - چنگال 
+      - changAl
+     back:
+      - fork
+   - front:
+      - سوپ 
+      - sup
+     back:
+      - soup
+   - front:
+      - سینی 
+      - sini
+     back:
+      - tray
+   - front:
+      - غذا 
+      - qazA
+     back:
+      - food
+   - front:
+      - غذا خوردن
+      - qazA xordan
+     back:
+      - to eat
+      - eat
+   - front:
+      - قاشق 
+      - qAshoq
+     back:
+      - spoon
+   - front:
+      - قبول 
+      - qabul
+     back:
+      - accepted, passed
+      - passed
+      - accepted
+   - front:
+      - کافی 
+      - kAfi
+     back:
+      - enough
+   - front:
+      - گذاشتن 
+      - gozAshtan
+     back:
+      - to put
+      - put
+   - front:
+      - سالاد 
+      - sAlAd
+     back:
+      - salad
+   - front:
+      - لیوان 
+      - livAn
+     back:
+      - cup, glass
+      - glass
+      - cup
+   - front:
+      - لذّت
+      - لذت 
+      - lezat
+      - lezzat
+     back:
+      - pleasure
+   - front:
+      - لطفا 
+      - لطفاً
+      - lotfan
+     back:
+      - please
+   - front:
+      - وقت 
+      - vaqt
+     back:
+      - time
+   - front:
+      - یعنی 
+      - ya'ni
+     back:
+      - means
+   - front:
+      - نوشابه 
+      - nushAbE
+     back:
+      - drinks, beverages
+      - drinks
+      - beverages
+- name: Chapter 16
+  cards:
+   - front:
+      - استفاده کردن 
+      - estefAdE kardan
+     back:
+      - to use
+      - use
+   - front:
+      - الفبا 
+      - alefbA
+     back:
+      - alphabet
+   - front:
+      - الو؟
+      - الو
+      - alo?
+      - alo
+     back:
+      - hello?
+      - hello
+   - front:
+      - بخشیدن 
+      - baxshidan
+     back:
+      - to excuse, to forgive
+      - to excuse
+      - excuse
+      - to forgive
+      - forgive
+   - front:
+      - تلفن 
+      - telefon
+     back:
+      - telephone
+   - front:
+      - پست 
+      - post
+     back:
+      - post, mail
+      - post
+      - mail
+   - front:
+      - پستی 
+      - posti
+     back:
+      - postal
+   - front:
+      - تاریخ 
+      - tArix
+     back:
+      - date, history
+      - date
+      - history
+   - front:
+      - تلفن زدن 
+      - telefon zadan
+     back:
+      - to call (on the phone)
+      - to call
+      - call
+   - front:
+      - تولد 
+      - tavalod
+      - tavallod
+     back:
+      - birth
+      - birthday
+   - front:
+      - حرف 
+      - harf
+     back:
+      - talk, letter (of the alphabet)
+      - talk
+      - letter
+   - front:
+      - شماره گرفتن 
+      - shomArE gereftan
+     back:
+      - to dial
+      - dial
+   - front:
+      - صدا 
+      - sedA
+     back:
+      - sound, voice
+      - sound
+      - voice
+   - front:
+      - عمومی 
+      - omumi
+     back:
+      - public
+   - front:
+      - لازم 
+      - lAzem
+     back:
+      - necessary
+   - front:
+      - محل 
+      - mahal
+     back:
+      - place
+      - location
+   - front:
+      - نام 
+      - nAm
+     back:
+      - name
+   - front:
+      - نشانی 
+      - neshAni
+     back:
+      - address
+   - front:
+      - بامه 
+      - nAmE
+     back:
+      - letter (mail)
+      - letter
+   - front:
+      - سکّه
+      - سکه 
+      - sekE
+      - sekkE
+     back:
+      - coin
+   - front:
+      - گوشی 
+      - gushi
+     back:
+      - headphones, telephone handset
+      - headphones
+      - headphone
+      - handset
+      - telephone handset
