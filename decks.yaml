@@ -1,4 +1,4 @@
-- name: Book 1, Chapter 4
+- name: Book 1, Lesson 4
   cards:
    - front:
       - آقا
@@ -161,7 +161,7 @@
       - yA
      back:
       - or
-- name: Book 1, Chapter 5
+- name: Book 1, Lesson 5
   cards:
    - front:
       - آنها 
@@ -293,7 +293,7 @@
       - ki
      back:
       - who
-- name: Book 1, Chapter 6
+- name: Book 1, Lesson 6
   cards:
    - front:
       - ایشان
@@ -426,7 +426,7 @@
       - xAhar
      back:
       - sister
-- name: Book 1, Chapter 7
+- name: Book 1, Lesson 7
   cards:
    - front:
       - آسان 
@@ -564,7 +564,7 @@
      back:
       - each
       - every
-- name: Book 1, Chapter 8
+- name: Book 1, Lesson 8
   cards:
    - front:
       - از 
@@ -706,7 +706,7 @@
       - xAbidan
      back:
       - to sleep
-- name: Book 1, Chapter 9
+- name: Book 1, Lesson 9
   cards:
    - front:
       - انجام 
@@ -843,7 +843,7 @@
       - banglAdesh
      back:
       - Bangladesh
-- name: Book 1, Chapter 10
+- name: Book 1, Lesson 10
   cards:
    - front:
       - امتحان 
@@ -986,7 +986,7 @@
       - hend
      back:
       - India
-- name: Book 1, Chapter 11
+- name: Book 1, Lesson 11
   cards:
    - front:
       - املا 
@@ -1110,7 +1110,7 @@
       - gorjestAn
      back:
       - Georgia
-- name: Book 1, Chapter 12
+- name: Book 1, Lesson 12
   cards:
    - front:
       - پدربزرگ 
@@ -1144,9 +1144,11 @@
      back:
       - nurse
    - front:
+      - خانه‌دار
+      - خانهدار
       - خانه دار
-      - xAne dAr
-      - xune dAr
+      - xAnedAr
+      - xunedAr
      back:
       - housewife
       - househusband
@@ -1220,6 +1222,7 @@
       - paternal uncle
       - uncle
    - front:
+      - عمّه 
       - عمه 
       - ammE
       - amE
@@ -1255,7 +1258,7 @@
      back:
       - close, nearby
       - close
-- name: Book 1, Chapter 13
+- name: Book 1, Lesson 13
   cards:
    - front:
       - انقلاب 
@@ -1392,7 +1395,7 @@
       - pul
      back:
       - money
-- name: Book 1, Chapter 14
+- name: Book 1, Lesson 14
   cards:
    - front:
       - پنجشنبه 
@@ -1494,6 +1497,7 @@
       - to get on
       - get on
    - front:
+      - سه‌شنبه 
       - سه شنبه 
       - سهشنبه 
       - sEshanbE
@@ -1546,12 +1550,13 @@
      back:
       - metro
    - front:
+      - مینی‌بوس
       - مینی بوس
       - مینیبوس
       - minibus
      back:
       - minibus
-- name: Book 1, Chapter 15
+- name: Book 1, Lesson 15
   cards:
    - front:
       - آب 
@@ -1682,7 +1687,7 @@
       - soft drinks, beverages
       - soft drinks
       - beverages
-- name: Book 1, Chapter 16
+- name: Book 1, Lesson 16
   cards:
    - front:
       - استفاده کردن 
@@ -1744,6 +1749,7 @@
       - to call
       - call
    - front:
+      - تولّد 
       - تولد 
       - tavalod
       - tavallod
