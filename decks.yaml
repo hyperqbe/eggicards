@@ -1824,3 +1824,106 @@
       - headphone
       - handset
       - telephone handset
+- name: Book 2, Lesson 1
+  cards:
+   - front:
+      - ابی 
+      - Abi
+     back:
+      - blue
+   - front:
+      - اثر 
+      - asar
+     back:
+      - monument
+   - front:
+      - تاریخی 
+      - tArixi
+     back:
+      - historical
+   - front:
+      - دانش 
+      - dAnesh
+     back:
+      - knowledge, science
+   - front:
+      - دانشمند 
+      - dAneshmand
+     back:
+      - scientist
+   - front:
+      - دیدنی 
+      - didani
+     back:
+      - interesting (to see)
+      - interesting to see
+      - interesting
+   - front:
+      - شاعر 
+      - shA'er
+     back:
+      - poet
+   - front:
+      - شناختن 
+      - shenAxtan
+     back:
+      - to know (a person), to recognize
+      - to know
+      - know
+      - to recognize
+      - recognize
+   - front:
+      - شناسایی 
+      - shenAsAii
+     back:
+      - recognition
+   - front:
+      - کیلومتر 
+      - kilometr
+      - kilumetr
+     back:
+      - kilometer
+   - front:
+      - نشان 
+      - neshAn
+     back:
+      - sign
+      - symbol
+   - front:
+      - نشان دادن 
+      - neshAn dAdan
+     back:
+      - to show
+      - show
+   - front:
+      - واقع 
+      - vAqe
+     back:
+      - located
+   - front:
+      - هر دو 
+      - har do
+     back:
+      - both
+   - front:
+      - همچنین
+      - hamchenin
+     back:
+      - also
+      - too
+   - front:
+      - آرامگاه
+      - ArAmgAh
+     back:
+      - grave
+   - front:
+      - غار
+      - qAr
+     back:
+      - cave
+   - front:
+      - سرامیک 
+      - serAmik
+     back:
+      - ceramic
+      - ceramics
