@@ -1927,3 +1927,263 @@
      back:
       - ceramic
       - ceramics
+- name: Book 2, Lesson 2
+  cards:
+   - front:
+      - ارتفاع 
+      - ertefA'
+     back:
+      - height
+   - front:
+      - بزرگراه 
+      - bozorgrAh
+      - bozorgrA
+     back:
+      - highway
+      - freeway
+   - front:
+      - اکنون 
+      - aknun
+     back:
+      - now
+   - front:
+      - بسیار 
+      - besiar
+     back:
+      - many, much
+      - many
+      - much
+   - front:
+      - بیش 
+      - bish
+     back:
+      - more
+   - front:
+      - برج 
+      - borj
+     back:
+      - tower
+   - front:
+      - جالب 
+      - jAleb
+     back:
+      - interesting
+   - front:
+      - جمعیت 
+      - jam'iiat
+      - jam'iat
+     back:
+      - population
+   - front:
+      - راه 
+      - rAh
+     back:
+      - way
+   - front:
+      - زیبا 
+      - zibA
+     back:
+      - beautiful
+   - front:
+      - شمردن 
+      - shomordan
+     back:
+      - to count
+      - count
+   - front:
+      - فهمیدن 
+      - fahmidan
+     back:
+      - to understand
+   - front:
+      - مختلف 
+      - moxtalef
+     back:
+      - varied, different
+      - varied
+      - different
+   - front:
+      - مقایسه 
+      - moqAiesE
+     back:
+      - comparison
+   - front:
+      - مقایسه کردن 
+      - moqAiesE kardan
+     back:
+      - to compare
+   - front:
+      - مهاجرت 
+      - mohAjerat
+     back:
+      - emigration
+   - front:
+      - مهم 
+      - mohem
+     back:
+      - important
+   - front:
+      - میلیون 
+      - milion
+     back:
+      - million
+   - front:
+      - نقطه 
+      - noqetE
+     back:
+      - point
+   - front:
+      - وجود 
+      - vojud
+     back:
+      - existence
+   - front:
+      - وجود داشتن 
+      - vojud dAshtan
+     back:
+      - to exist
+   - front:
+      - ساختمان 
+      - sAxtemAn
+      - sAxtemun
+     back:
+      - building
+   - front:
+      - کوه 
+      - kuh
+     back:
+      - mountain
+   - front:
+      - هتل 
+      - hotel
+     back:
+      - hotel
+- name: Book 2, Lesson 2
+  cards:
+   - front:
+      - آزاد 
+      - AzAd
+     back:
+      - free, open
+      - free
+      - open
+   - front:
+      - اسلام 
+      - eslAm
+     back:
+      - Islam
+   - front:
+      - اسلامی 
+      - eslAmi
+     back:
+      - Islamic
+      - muslim
+   - front:
+      - امسال 
+      - emsAl
+     back:
+      - this year
+   - front:
+      - امشب 
+      - emshab
+     back:
+      - tonight
+   - front:
+      - استخر 
+      - estaxr
+     back:
+      - swimming pool
+      - pool
+   - front:
+      - بازی 
+      - bAzi
+     back:
+      - game
+   - front:
+      - بازی کردن 
+      - bAzi kardan
+     back:
+      - to play
+   - front:
+      - پارسال 
+      - pArsAl
+     back:
+      - last year
+   - front:
+      - پریروز 
+      - pariruz
+     back:
+      - day before yesterday
+      - two days ago
+   - front:
+      - پریشب 
+      - parishab
+     back:
+      - night before last night
+      - night before last
+      - two nights ago
+   - front:
+      - پس‌فردا 
+      - پسفردا 
+      - pasfardA
+     back:
+      - day after tomorrow
+   - front:
+      - تحصیل کردن 
+      - tahsil kardan
+     back:
+      - to study
+      - study
+   - front:
+      - دانشکده 
+      - dAneshkadE
+     back:
+      - department, faculty
+      - department
+      - faculty
+   - front:
+      - زمین 
+      - zamin
+     back:
+      - ground
+      - field
+   - front:
+      - مخصوص 
+      - maxsus
+     back:
+      - special
+   - front:
+      - ورزش 
+      - varzesh
+     back:
+      - sport, exercise
+      - sport
+      - exercise
+   - front:
+      - ورزش کردن 
+      - varzesh kardan
+     back:
+      - to exercise
+      - exercise
+   - front:
+      - ولی 
+      - vali
+     back:
+      - but
+   - front:
+      - یاد گرفتن 
+      - yAd gereftan
+     back:
+      - to learn
+      - learn
+   - front:
+      - شنا 
+      - shenA
+     back:
+      - swimming
+   - front:
+      - سالن 
+      - sAlon
+     back:
+      - court (for sports)
+      - court
