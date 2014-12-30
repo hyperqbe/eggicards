@@ -2357,6 +2357,7 @@
       - vasat
      back:
       - middle
+      - center
    - front:
       - سبز 
       - sabz
@@ -2456,3 +2457,142 @@
       - naqAshi
      back:
       - painting
+- name: Book 2, Lesson 6
+  cards:
+   - front:
+      - آسمان 
+      - AsemAn
+      - Asemun
+     back:
+      - sky
+   - front:
+      - باغ 
+      - bAq
+     back:
+      - garden
+   - front:
+      - نظر 
+      - nazar
+     back:
+      - opinion
+   - front:
+      - پر 
+      - por
+     back:
+      - full
+   - front:
+      - باغچه 
+      - bAqchE
+     back:
+      - little garden
+      - small garden
+   - front:
+      - درخت 
+      - deraxt
+     back:
+      - tree
+   - front:
+      - خنک 
+      - xonak
+     back:
+      - cool
+   - front:
+      - ربع 
+      - rob'
+     back:
+      - quarter
+   - front:
+      - زرد 
+      - zard
+     back:
+      - yellow
+   - front:
+      - سرخ 
+      - sorx
+     back:
+      - red
+   - front:
+      - صاف 
+      - sAf
+     back:
+      - clear
+   - front:
+      - فصل 
+      - fasl
+     back:
+      - season
+   - front:
+      - گرسنه 
+      - gorosnE
+     back:
+      - hungry
+   - front:
+      - گرم 
+      - garm
+     back:
+      - warm
+   - front:
+      - ماه 
+      - mAh
+     back:
+      - month
+   - front:
+      - مخالف 
+      - moxAlef
+     back:
+      - antonym
+      - opposite
+   - front:
+      - مخصوصاً
+      - مخصوصا
+      - maxsusan
+     back:
+      - especially
+   - front:
+      - ملّت
+      - ملت 
+      - mellat
+      - melat
+     back:
+      - people (of a nation)
+      - people
+      - nation
+   - front:
+      - وقتی که 
+      - vaqti ke
+     back:
+      - when
+   - front:
+      - هم‌معنی 
+      - hamma'ni
+      - hama'ni
+     back:
+      - synonym
+   - front:
+      - هوا 
+      - havA
+     back:
+      - weather
+   - front:
+      - دریا 
+      - dariA
+     back:
+      - ocean
+   - front:
+      - دریاچه 
+      - dariAchE
+     back:
+      - lake
+   - front:
+      - شیرینی 
+      - shirini
+     back:
+      - sweets, dessert, candy
+      - sweets
+      - dessert
+      - candy
+   - front:
+      - گل 
+      - gol
+     back:
+      - flower
