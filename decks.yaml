@@ -3109,3 +3109,136 @@
       - namak
      back:
       - salt
+- name: Book 2, Lesson 11
+  cards:
+   - front:
+      - ایستادن 
+      - istAdan
+     back:
+      - to stand
+      - stand
+   - front:
+      - ایستگاه 
+      - istgAh
+     back:
+      - 
+   - front:
+      - باریدن 
+      - bAridan
+     back:
+      - to rain
+      - rain
+   - front:
+      - بقیه ###
+      - baqiiE
+     back:
+      - rest, remainder
+      - rest
+      - remainder
+   - front:
+      - به طرف 
+      - be taraf
+      - be tarafe
+     back:
+      - towards
+   - front:
+      - اسکی 
+      - eski
+     back:
+      - ski
+   - front:
+      - پیاده روی ###
+      - piAdEravi
+     back:
+      - walking
+   - front:
+      - تابستان 
+      - tAbestAn
+      - tAbestun
+     back:
+      - summer
+   - front:
+      - چندم 
+      - chandom
+     back:
+      - which (of a certain number)
+      - which
+   - front:
+      - دوم ###
+      - dovom
+     back:
+      - second
+      - 2nd
+   - front:
+      - راحت 
+      - rAhat
+     back:
+      - convenient
+   - front:
+      - راه رفتن 
+      - rAh raftan
+     back:
+      - to walk
+      - walk
+   - front:
+      - رساندن 
+      - resAndan
+      - resundan
+     back:
+      - to cause to reach ###
+      - cause to reach
+   - front:
+      - سنک 
+      - sanok
+     back:
+      - light
+   - front:
+      - سنگین 
+      - sangin
+     back:
+      - heavy
+   - front:
+      - سوم ###
+      - sevom
+     back:
+      - third
+      - 3rd
+   - front:
+      - عالی 
+      - 'ali
+     back:
+      - excellent
+   - front:
+      - فکر 
+      - fekr
+     back:
+      - thought
+   - front:
+      - فکر کردن 
+      - fekr kardan
+     back:
+      - to think
+      - think
+   - front:
+      - هرچیز 
+      - harchiz
+     back:
+      - everything
+   - front:
+      - هیچچیز ###
+      - hichchiz
+     back:
+      - nothing
+   - front:
+      - تله کابین ###
+      - telE kAbin
+      - telEkAbin
+     back:
+      - ski lift
+      - lift
+   - front:
+      - کوهنوردی ###
+      - kuhnavardi
+     back:
+      - hiking
+
