@@ -3241,4 +3241,393 @@
       - kuhnavardi
      back:
       - hiking
-
+- name: Book 2, Lesson 12
+  cards:
+   - front:
+      - آوردن
+      - Avardan
+      - Avordan ? ###
+     back:
+      - to bring ? ###
+   - front:
+      - اقامت کردن 
+      - eqAmat kardan
+     back:
+      - to stay, to reside
+      - to stay
+      - stay
+      - to reside
+      - reside
+   - front:
+      - الان ###
+      - alAn
+     back:
+      - just now
+      - now
+   - front:
+      - آینده 
+      - AiandE
+     back:
+      - future ? ###
+   - front:
+      - اقامت 
+      - eqAmat
+     back:
+      - stay, residence
+      - stay
+      - residence
+   - front:
+      - بار 
+      - bAr
+     back:
+      - time, occasion; luggage
+      - time
+      - occasion
+      - luggage
+   - front:
+      - برگشتن 
+      - bargashtan
+      - bar gashtan
+     back:
+      - to return
+      - return
+   - front:
+      - تقریبا ###
+      - taqriban
+     back:
+      - almost
+   - front:
+      - چشم 
+      - cheshm
+     back:
+      - eye
+   - front:
+      - حتما  ###
+      - hatman
+     back:
+      - certainly
+      - of course
+   - front:
+      - دستشویی 
+      - dastshuii
+     back:
+      - lavatory
+      - washroom
+      - restroom
+      - bathroom
+   - front:
+      - دعوت شدن 
+      - da'vat shodan
+     back:
+      - to be invited
+      - be invited
+   - front:
+      - راندن 
+      - rAndan
+      - rundan ###
+     back:
+      - to drive
+      - drive
+   - front:
+      - راننده 
+      - rAnandE
+     back:
+      - driver
+   - front:
+      - شرکت 
+      - sherkat
+     back:
+      - participation
+   - front:
+      - شرکت کردن 
+      - sherkat kardan
+     back:
+      - to participate
+      - participate
+   - front:
+      - شستن 
+      - shostan
+     back:
+      - to wash
+      - wash
+   - front:
+      - عشق 
+      - eshq
+     back:
+      - love
+   - front:
+      - علاقه 
+      - 'alAqE
+     back:
+      - attachment, interest
+      - interest
+      - attachment
+   - front:
+      - گفتگو کردن 
+      - goftogu kardan
+      - goftegu kardan ###
+     back:
+      - to discuss
+      - discuss
+   - front:
+      - لاله 
+      - lAlE
+     back:
+      - tulip
+- name: Book 2, Lesson 13
+  cards:
+   - front:
+      - احترام 
+      - ehterAm
+     back:
+      - respect
+   - front:
+      - ارزش 
+      - arzesh
+     back:
+      - value
+   - front:
+      - بزرگان 
+      - bozorgAn
+     back:
+      - the great
+   - front:
+      - بهبه ###
+      - bahbah
+     back:
+      - excellent
+   - front:
+      - حضرت 
+      - hazrat
+     back:
+      - honorable
+      - honourable
+   - front:
+      - خسته 
+      - xastE
+     back:
+      - tired
+   - front:
+      - در واقع 
+      - dar vAqe'
+     back:
+      - in fact
+      - really
+   - front:
+      - راست 
+      - rAst
+     back:
+      - right
+   - front:
+      - شنیدن 
+      - shenidan
+     back:
+      - to hear
+      - hear
+   - front:
+      - فراموش 
+      - farAmush
+     back:
+      - forgotten
+   - front:
+      - فراموش کردن 
+      - farAmush kardan
+     back:
+      - to forget
+   - front:
+      - قبلا ###
+      - qablan
+     back:
+      - ???
+   - front:
+      - قبول کردن 
+      - qabul kardan
+     back:
+      - ???###
+   - front:
+      - فرن 
+      - farn
+     back:
+      - century
+   - front:
+      - کمک 
+      - komak
+     back:
+      - help
+   - front:
+      - کمک کردن 
+      - komak kardan
+     back:
+      - to help
+      - help
+   - front:
+      - نگاه 
+      - negAh
+     back:
+      - look
+   - front:
+      - نگاه کردن 
+      - negAh kardan
+     back:
+      - to look
+   - front:
+      - هروقت 
+      - harvaqt
+     back:
+      - whenever
+      - every time
+   - front:
+      - هیچوقت ###
+      - hichvaqt
+     back:
+      - never ###???
+   - front:
+      - یکی یکی
+      - yeki yeki
+     back:
+      - one by one
+      - separately
+- name: Book 2, Lesson 14
+  cards:
+   - front:
+      - اطلاع ###^^
+      - ettelA'
+     back:
+      - information
+   - front:
+      - اطلاع دادن 
+      - ettelA' dAdan
+     back:
+      - to inform
+      - inform
+   - front:
+      - امضا 
+      - emzA
+     back:
+      - signature
+   - front:
+      - امضا کردن 
+      - emzA kardan
+     back:
+      - to sign
+      - sign
+   - front:
+      - اسکناس 
+      - eskendAs
+     back:
+      - money??? ###
+   - front:
+      - بانک 
+      - bAnk
+     back:
+      - bank
+   - front:
+      - خوداحافظی 
+      - xodAhAfezi
+      - xodA hAfezi
+     back:
+      - saying goodbye
+   - front:
+      - خوداحافظ کردن 
+      - xodAhAfezi kardan
+      - xodA hAfezi kardan
+     back:
+      - to say goodbye
+      - say goodbye
+   - front:
+      - خوش 
+      - xosh
+     back:
+      - cheerful
+      - good
+   - front:
+      - خوشحال 
+      - xoshhAl
+     back:
+      - happy
+   - front:
+      - خوش گذاشتن 
+      - xosh gozashtan
+     back:
+      - to have a good time
+      - have a good time
+      - to have fun
+      - have fun
+   - front:
+      - درست شدن 
+      - dorost shodan
+     back:
+      - to be made
+      - be made
+   - front:
+      - ریختن 
+      - dixtan
+     back:
+      - to pour
+      - pour
+   - front:
+      - شروع شدن 
+      - shoru' shodan
+     back:
+      - to begin
+      - begin
+   - front:
+      - عزیز 
+      - aziz
+     back:
+      - dear
+   - front:
+      - فرستادن 
+      - ferestAdan
+     back:
+      - to send
+      - send
+   - front:
+      - گذشتن 
+      - gozashtan
+     back:
+      - to pass
+      - pass
+   - front:
+      - مبلغ 
+      - mablaq
+     back:
+      - amount (of money)
+      - amount of money
+      - amount
+   - front:
+      - معزرت 
+      - ma'zerat
+     back:
+      - apology
+   - front:
+      - ملی ###^^
+      - melli
+     back:
+      - national
+   - front:
+      - ممنون 
+      - mamnun
+     back:
+      - thankful
+   - front:
+      - کارتپول ### #
+      - kartpul
+     back:
+      - credit card
+      - ATM card
+   - front:
+      - دلار 
+      - dolAr
+     back:
+      - dollar
+   - front:
+      - دفترچه 
+      - daftarche
+     back:
+      - ??? ###
+   - front:
+      - چک 
+      - chek
+     back:
+      - check
