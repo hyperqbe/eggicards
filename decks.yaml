@@ -2859,3 +2859,150 @@
       - kafsh
      back:
       - shoe
+- name: Book 2, Lesson 9
+  cards:
+   - front:
+      - استراحت 
+      - esterAhat
+     back: 
+      - rest
+      - relax
+   - front:
+      - بیمارستان 
+      - bimArestAn
+     back: 
+      - hospital
+   - front:
+      - بیمار شدن 
+      - bimAr shodan
+     back: 
+      - to become ill
+      - become ill
+      - to become sick
+      - become sick
+      - to get sick
+      - get sick
+   - front:
+      - بیماری 
+      - bimAri
+     back: 
+      - illness
+      - sickness
+   - front:
+      - بیمار 
+      - bimAr
+     back: 
+      - sick person
+      - ill person
+      - patient?###
+   - front:
+      - پا 
+      - pA
+     back: 
+      - foot
+      - leg
+   - front:
+      - جدید 
+      - jadid
+     back: 
+      - modern
+      - new
+   - front:
+      - درد 
+      - dard
+     back: 
+      - pain
+      - ache
+   - front:
+      - درد کردن 
+      - dard kardan
+     back: 
+      - to ache
+      - ache
+      - to hurt
+      - hurt
+   - front:
+      - دست 
+      - dast
+     back: 
+      - hand
+   - front:
+      - دل 
+      - del
+     back: 
+      - stomach
+   - front:
+      - دهان 
+      - dahAn
+      - dahan? ###
+     back: 
+      - mouth
+   - front:
+      - شدید 
+      - shadid
+     back: 
+      - severe
+   - front:
+      - صدا کردن 
+      - sedA kardan
+     back: 
+      - to call
+      - call
+   - front:
+      - صورت 
+      - surat
+     back: 
+      - face
+   - front:
+      - گلو 
+      - galu
+     back: 
+      - throat
+   - front:
+      - معاینه 
+      - mo'AienE
+     back: 
+      - examination
+      - exam
+   - front:
+      - معاینه کردن 
+      - mo'AienE kardan
+     back: 
+      - to examine
+      - examine
+   - front:
+      - موقع 
+      - moqe'
+     back:
+      - time
+      - when
+   - front:
+      - نسخه 
+      - nosxE
+     back: 
+      - prescription
+   - front:
+      - منشی 
+      - monshi
+     back: 
+      - receptionist
+   - front:
+      - داروخانه 
+      - dAruxAnE
+      - dAruxunE
+     back: 
+      - pharmacy
+      - drug store
+      - drugstore
+   - front:
+      - دارو 
+      - dAru
+     back: 
+      - drug
+      - medicine
+   - front:
+      - پزشک 
+      - pezeshk
+     back: 
+      - physician
+      - doctor
