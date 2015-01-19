@@ -21,7 +21,7 @@
       - room
       - bedroom
    - front:
-      - او 
+      - او
       - u
       - un
      back:
@@ -32,41 +32,41 @@
       - she
       - it
    - front:
-      - اینجا 
+      - اینجا
       - injA
      back:
       - here
    - front:
-      - پنجره 
+      - پنجره
       - panjarE
       - panjerE
      back:
       - window
    - front:
-      - بد 
+      - بد
       - bad
      back:
       - bad
    - front:
-      - پنج 
+      - پنج
       - panj
      back:
       - five
       - 5
    - front:
-      - تا 
+      - تا
       - tA
      back:
       - unit, piece
       - unit
       - piece
    - front:
-      - جا 
+      - جا
       - jA
      back:
       - place
    - front:
-      - چند 
+      - چند
       - chand
      back:
       - how many, several
@@ -74,14 +74,14 @@
       - how much
       - several
    - front:
-      - چهار 
+      - چهار
       - chAhAr
       - chehAr
      back:
       - four
       - 4
    - front:
-      - خانم 
+      - خانم
       - xAnom
       - xAnum
      back:
@@ -92,65 +92,65 @@
       - Mrs
       - Mrs.
    - front:
-      - خوب 
+      - خوب
       - xub
      back:
       - good, well
       - good
       - well
    - front:
-      - خیلی 
+      - خیلی
       - xeili
      back:
       - very
    - front:
-      - شش 
+      - شش
       - shesh
       - shish
      back:
       - six
       - 6
    - front:
-      - کجا 
+      - کجا
       - kojA
      back:
       - where
    - front:
-      - در 
+      - در
       - dar
      back:
       - door
    - front:
-      - صندلی 
+      - صندلی
       - sandali
      back:
       - chair
    - front:
-      - کیف 
+      - کیف
       - kif
      back:
       - purse, bag
       - purse
       - bag
    - front:
-      - مکالمه 
+      - مکالمه
       - mokAlemE
      back:
       - conversation
    - front:
-      - و 
+      - و
       - va
       - o
      back:
       - and
    - front:
-      - هفت 
+      - هفت
       - haft
      back:
       - seven
       - 7
    - front:
-      - میز 
+      - میز
       - miz
      back:
       - table, desk
@@ -164,7 +164,7 @@
 - name: Book 1, Lesson 5
   cards:
    - front:
-      - آنها 
+      - آنها
       - AnhA
       - unhA
      back:
@@ -172,65 +172,65 @@
       - they
       - those
    - front:
-      - اسم 
+      - اسم
       - esm
      back:
       - name
    - front:
-      - اهل 
+      - اهل
       - ahl
      back:
       - citizen
    - front:
-      - بزرگ 
+      - بزرگ
       - bozorg
      back:
       - big
       - large
    - front:
-      - پسر 
+      - پسر
       - pesar
      back:
       - boy, son
       - boy
       - son
    - front:
-      - خانه 
+      - خانه
       - xAnE
       - xunE
      back:
       - house
       - home
    - front:
-      - تمرین 
+      - تمرین
       - tamrin
      back:
       - exercise
    - front:
-      - در 
+      - در
       - dar
       - tu
      back:
       - in
    - front:
-      - چطور 
+      - چطور
       - chetor
      back:
       - how
    - front:
-      - حال 
+      - حال
       - hAl
      back:
       - health
    - front:
-      - دختر 
+      - دختر
       - doxtar
      back:
       - girl, daughter
       - girl
       - daughter
    - front:
-      - زبان 
+      - زبان
       - zabAn
       - zabun
      back:
@@ -238,17 +238,17 @@
       - language
       - tongue
    - front:
-      - شماره 
+      - شماره
       - shomArE
      back:
       - number
    - front:
-      - شهر 
+      - شهر
       - shahr
      back:
       - city
    - front:
-      - صحیح 
+      - صحیح
       - sahih
      back:
       - correct, true
@@ -256,13 +256,13 @@
       - right
       - true
    - front:
-      - عکس 
+      - عکس
       - aks
      back:
       - photo
       - picture
    - front:
-      - غلط 
+      - غلط
       - qalat
      back:
       - wrong, false
@@ -270,12 +270,12 @@
       - wrong
       - false
    - front:
-      - فقط 
+      - فقط
       - faqat
      back:
       - only
    - front:
-      - قشنگ 
+      - قشنگ
       - qashang
      back:
       - lovely, nice, beautiful
@@ -283,13 +283,13 @@
       - nice
       - beautiful
    - front:
-      - کوچک 
+      - کوچک
       - kuchak
       - kuchik
      back:
       - small
    - front:
-      - کی 
+      - کی
       - ki
      back:
       - who
@@ -304,104 +304,104 @@
       - they
       - them
    - front:
-      - به 
+      - به
       - bE
      back:
       - to
    - front:
-      - تو 
+      - تو
       - to
      back:
       - you (informal)
       - you
    - front:
-      - حاضر 
+      - حاضر
       - hAzer
      back:
       - present
       - ready
    - front:
-      - خانواده 
+      - خانواده
       - xAnevAdE
       - xunevAdE
      back:
       - family
    - front:
-      - خواندن 
+      - خواندن
       - xAndan
       - xundan
      back:
       - to read
       - read
    - front:
-      - دانشگاه 
+      - دانشگاه
       - dAneshgAh
      back:
       - university
    - front:
-      - درس خواندن 
+      - درس خواندن
       - dars xAndan
       - dars xundan
      back:
       - to study
       - study
    - front:
-      - دوست 
+      - دوست
       - dust
      back:
       - friend
    - front:
-      - رفتن 
+      - رفتن
       - raftan
      back:
       - to go
       - go
    - front:
-      - زندگی 
+      - زندگی
       - zendegi
      back:
       - life
    - front:
-      - زندگی کردن 
+      - زندگی کردن
       - zendegi kardan
      back:
       - to live
       - live
    - front:
-      - زیاد 
+      - زیاد
       - ziAd
      back:
       - many, much
       - many
       - much
    - front:
-      - فامیل 
+      - فامیل
       - fAmil
      back:
       - family
    - front:
-      - کدام 
+      - کدام
       - kodAm
       - kodum
      back:
       - which
    - front:
-      - کردن 
+      - کردن
      back:
       - to do
       - do
    - front:
-      - کشور 
+      - کشور
       - keshvar
      back:
       - country
    - front:
-      - نفر 
+      - نفر
       - nafar
      back:
       - person
    - front:
-      - هشت 
+      - هشت
       - hasht
      back:
       - eight
@@ -412,30 +412,30 @@
      back:
       - father
    - front:
-      - مادر 
+      - مادر
       - mAdar
      back:
       - mother
    - front:
-      - برادر 
+      - برادر
       - barAdar
      back:
       - brother
    - front:
-      - خواهر 
+      - خواهر
       - xAhar
      back:
       - sister
 - name: Book 1, Lesson 7
   cards:
    - front:
-      - آسان 
+      - آسان
       - AsAn
       - Asun
      back:
       - easy
    - front:
-      - آمدن 
+      - آمدن
       - Amadan
       - umadan
      back:
@@ -453,64 +453,64 @@
      back:
       - with
    - front:
-      - باهم 
+      - باهم
       - bAham
       - bA ham
      back:
       - together
    - front:
-      - چای 
+      - چای
       - chAi
       - chAyi
      back:
       - tea
    - front:
-      - پنیر 
+      - پنیر
       - panir
      back:
       - cheese
    - front:
-      - خواب 
+      - خواب
       - xAb
      back:
       - to sleep
       - sleep
    - front:
-      - خوابگاه 
+      - خوابگاه
       - xAbgAh
      back:
       - dormitory
       - dorm
    - front:
-      - خوردن 
+      - خوردن
       - xordan
      back:
       - to eat
       - eat
    - front:
-      - داشتن 
+      - داشتن
       - dAshtan
      back:
       - to have
       - have
    - front:
-      - دوست داشتن 
+      - دوست داشتن
       - dust dAshtan
      back:
       - to like
       - like
    - front:
-      - شیر 
+      - شیر
       - shir
      back:
       - milk
    - front:
-      - صبح 
+      - صبح
       - sobh
      back:
       - morning
    - front:
-      - صبحانه 
+      - صبحانه
       - sobhAnE
       - sobhunE
      back:
@@ -521,22 +521,22 @@
      back:
       - zero
    - front:
-      - قهوه 
+      - قهوه
       - qahvE
      back:
       - coffee
    - front:
-      - کره 
+      - کره
       - karE
      back:
       - butter
    - front:
-      - مربا 
+      - مربا
       - morabA
      back:
       - jam
    - front:
-      - نان 
+      - نان
       - nAn
       - nun
      back:
@@ -554,73 +554,73 @@
      back:
       - usually
    - front:
-      - نه 
+      - نه
       - noh
      back:
       - nine
       - 9
    - front:
-      - هر 
+      - هر
      back:
       - each
       - every
 - name: Book 1, Lesson 8
   cards:
    - front:
-      - از 
+      - از
       - az
      back:
       - from
    - front:
-      - بعد 
+      - بعد
       - ba'd
       - ba'ad
      back:
       - next
       - later
    - front:
-      - بعد از 
+      - بعد از
       - ba'd az
       - ba'ad az
      back:
       - after
    - front:
-      - بودن 
+      - بودن
       - budan
      back:
       - to be
       - be
    - front:
-      - بیدار 
+      - بیدار
       - bidAr
      back:
       - awake
    - front:
-      - خندیدن 
+      - خندیدن
       - xandidan
      back:
       - to laugh
       - laugh
    - front:
-      - بیدار شدن 
+      - بیدار شدن
       - bidAr shodan
      back:
       - to wake up
       - wake up
    - front:
-      - خوشمزه 
+      - خوشمزه
       - xoshmazE
      back:
       - delicious
       - tasty
    - front:
-      - درست 
+      - درست
       - dorost
      back:
       - correct
       - right
    - front:
-      - درست کردن 
+      - درست کردن
       - dorost kardan
      back:
       - to make
@@ -628,74 +628,74 @@
       - to cook
       - cook
    - front:
-      - ده 
+      - ده
       - dah
      back:
       - ten
       - 10
    - front:
-      - دیروز 
+      - دیروز
       - diruz
      back:
       - yesterday
    - front:
-      - دیشب 
+      - دیشب
       - dishab
      back:
       - last night
       - yesterday night
    - front:
-      - رستوران 
+      - رستوران
       - resturAn
      back:
       - restaurant
    - front:
-      - شام 
+      - شام
       - shAm
      back:
       - dinner
       - supper
    - front:
-      - شدن 
+      - شدن
       - shodan
      back:
       - to become
       - become
    - front:
-      - کی 
+      - کی
       - kei
      back:
       - when
    - front:
-      - گذشته 
+      - گذشته
       - gozashtE
      back:
       - last, past
       - past
       - last
    - front:
-      - مال 
+      - مال
       - mAl
      back:
       - property
    - front:
-      - ناهار 
+      - ناهار
       - nAhAr
      back:
       - lunch
    - front:
-      - هم 
+      - هم
       - ham
      back:
       - also
       - too
    - front:
-      - شب 
+      - شب
       - shab
      back:
       - night
    - front:
-      - ساعت 
+      - ساعت
       - sA'at
      back:
       - watch, hour
@@ -709,13 +709,13 @@
 - name: Book 1, Lesson 9
   cards:
    - front:
-      - انجام 
+      - انجام
       - anjAm
      back:
       - fulfillment
       - fulfilment
    - front:
-      - انجام دادن 
+      - انجام دادن
       - anjAm dAdan
      back:
       - to fulfil
@@ -724,40 +724,40 @@
       - fulfill
    - front:
       - اوّل
-      - اول 
+      - اول
       - avval
       - aval
      back:
       - first
    - front:
-      - اوکراین 
+      - اوکراین
       - ukrAin
      back:
       - Ukraine
    - front:
-      - باز 
+      - باز
       - bAz
      back:
       - open
    - front:
-      - بعضی 
+      - بعضی
       - ba'azi
       - ba'zi
      back:
       - some
    - front:
-      - تکلیف 
+      - تکلیف
       - taklif
      back:
       - assignment
       - homework
    - front:
-      - جمله 
+      - جمله
       - jomlE
      back:
       - sentence
    - front:
-      - جواب دادن 
+      - جواب دادن
       - javAb dAdan
      back:
       - to answer, to respond
@@ -766,12 +766,12 @@
       - to respond
       - respond
    - front:
-      - خواهش 
+      - خواهش
       - xAhesh
      back:
       - request
    - front:
-      - خواهش کردن 
+      - خواهش کردن
       - xAhesh kardan
      back:
       - to request
@@ -779,7 +779,7 @@
       - to beg
       - beg
    - front:
-      - دادن 
+      - دادن
       - dAdan
      back:
       - to give
@@ -791,117 +791,117 @@
      back:
       - about
    - front:
-      - دستور 
+      - دستور
       - dastur
      back:
       - grammar
    - front:
-      - سطر 
+      - سطر
       - satr
      back:
       - line
    - front:
-      - کار کردن 
+      - کار کردن
       - kAr kardan
      back:
       - to work
       - work
    - front:
-      - کتابخانه  
+      - کتابخانه
       - ketAbxAnE
       - ketAbxunE
      back:
       - library
    - front:
-      - گاهی 
+      - گاهی
       - gAhi
      back:
       - sometimes
    - front:
-      - نوشتن 
+      - نوشتن
       - neveshtan
      back:
       - to write
       - write
    - front:
-      - بوسنی 
+      - بوسنی
       - bosni
      back:
       - Bosnia
    - front:
-      - ژاپن 
+      - ژاپن
       - jApon
      back:
       - Japan
    - front:
-      - فرانسه 
+      - فرانسه
       - farAnsE
      back:
       - France
    - front:
-      - بنگلادش 
+      - بنگلادش
       - banglAdesh
      back:
       - Bangladesh
 - name: Book 1, Lesson 10
   cards:
    - front:
-      - امتحان 
+      - امتحان
       - emtehAn
      back:
       - examination
       - exam
    - front:
-      - امروز 
+      - امروز
       - emruz
      back:
       - today
    - front:
-      - بستن 
+      - بستن
       - bastan
      back:
       - to close
       - close
    - front:
-      - بسته 
+      - بسته
       - bastE
      back:
       - closed
    - front:
-      - تکرار کردن 
+      - تکرار کردن
       - tekrAr kardan
      back:
       - to repeat
       - repeat
    - front:
-      - آلمان 
+      - آلمان
       - AlmAn
      back:
       - Germany
    - front:
-      - توضیح 
+      - توضیح
       - tozih
      back:
       - explanation
    - front:
-      - توضیح دادن 
+      - توضیح دادن
       - tozih dAdan
      back:
       - to explain
       - explain
    - front:
-      - دوشنبه 
+      - دوشنبه
       - doshanbE
       - doshambE
      back:
       - Monday
    - front:
-      - دیر 
+      - دیر
       - dir
      back:
       - late
    - front:
-      - زود 
+      - زود
       - zud
      back:
       - soon, early
@@ -909,35 +909,35 @@
       - early
    - front:
       - سؤال
-      - سوال 
+      - سوال
       - so'Al
      back:
       - question
    - front:
-      - ﺱﺅﺎﻟ کردن 
-      - ﺱﻭﺎﻟ کردن 
+      - ﺱﺅﺎﻟ کردن
+      - ﺱﻭﺎﻟ کردن
       - so'Al kardan
      back:
       - to ask
       - ask
    - front:
-      - شروع 
+      - شروع
       - shoru'
      back:
       - beginning
       - start
    - front:
-      - صفحه 
+      - صفحه
       - safhe
      back:
       - page
    - front:
-      - فردا 
+      - فردا
       - fardA
      back:
       - tomorrow
    - front:
-      - گفتن 
+      - گفتن
       - goftan
      back:
       - to say
@@ -945,83 +945,83 @@
       - to tell
       - tell
    - front:
-      - گوش 
+      - گوش
       - gush
      back:
       - ear
    - front:
-      - متن 
+      - متن
       - matn
      back:
       - text
    - front:
-      - نشستن 
+      - نشستن
       - neshastan
      back:
       - to sit
       - sit
    - front:
-      - یکشنبه 
+      - یکشنبه
       - yekshanbE
       - yekshambE
      back:
       - Sunday
    - front:
-      - روسیه 
+      - روسیه
       - rusiE
      back:
       - Russia
    - front:
-      - قزاقستان 
+      - قزاقستان
       - qazAqestAn
      back:
       - Kazakhstan
    - front:
-      - ارمنستان 
+      - ارمنستان
       - armanestAn
      back:
       - Armenia
    - front:
-      - هند 
+      - هند
       - hend
      back:
       - India
 - name: Book 1, Lesson 11
   cards:
    - front:
-      - املا 
+      - املا
       - emlA
      back:
       - dictation
    - front:
-      - ثانیه 
+      - ثانیه
       - sAniE
      back:
       - second (unit of time)
       - second
    - front:
-      - تخته 
+      - تخته
       - taxtE
      back:
       - board
    - front:
-      - خدا حافظ 
+      - خدا حافظ
       - xodA hAfez
      back:
       - goodbye
       - good bye
    - front:
-      - دقیقه 
+      - دقیقه
       - daqiqE
      back:
       - minute
    - front:
-      - پاکستان 
+      - پاکستان
       - pAkestAn
      back:
       - Pakistan
    - front:
-      - دیگر 
+      - دیگر
       - digar
       - dige
      back:
@@ -1031,19 +1031,19 @@
       - more
       - else
    - front:
-      - رو 
+      - رو
       - ru
      back:
       - face, surface
       - face
       - surface
    - front:
-      - روی 
+      - روی
       - ruie
      back:
       - on
    - front:
-      - زیر 
+      - زیر
       - zir
       - zire
      back:
@@ -1052,7 +1052,7 @@
       - below
       - bottom
    - front:
-      - صحبت کردن 
+      - صحبت کردن
       - sohbat kardan
      back:
       - to speak
@@ -1060,32 +1060,32 @@
       - to talk
       - talk
    - front:
-      - غایب 
+      - غایب
       - qAieb
      back:
       - absent
    - front:
-      - قبل 
+      - قبل
       - qabl
      back:
       - ago
    - front:
-      - قبل از 
+      - قبل از
       - qabl az
      back:
       - before
    - front:
-      - کلمه 
+      - کلمه
       - kalamE
      back:
       - word
    - front:
-      - کوتاه 
+      - کوتاه
       - kutAh
      back:
       - short
    - front:
-      - گرفتن 
+      - گرفتن
       - gereftan
      back:
       - to get, to take, to receive
@@ -1096,36 +1096,36 @@
       - to receive
       - receive
    - front:
-      - نظر 
+      - نظر
       - nazar
      back:
       - opinion
    - front:
-      - نمره 
+      - نمره
       - nomrE
      back:
       - grade
    - front:
-      - گرجستان 
+      - گرجستان
       - gorjestAn
      back:
       - Georgia
 - name: Book 1, Lesson 12
   cards:
    - front:
-      - پدربزرگ 
+      - پدربزرگ
       - pedarbozorg
      back:
       - grandfather
    - front:
-      - پسرعمو 
+      - پسرعمو
       - pesar amu
       - pesaramu
      back:
       - male paternal cousin
       - cousin
    - front:
-      - حدود 
+      - حدود
       - hodud
       - hodude
      back:
@@ -1133,14 +1133,14 @@
       - about
       - almost
    - front:
-      - خاله 
+      - خاله
       - xAlE
      back:
       - maternal aunt
       - aunt
    - front:
-      - پرستار 
-      - parastAr 
+      - پرستار
+      - parastAr
      back:
       - nurse
    - front:
@@ -1153,107 +1153,107 @@
       - housewife
       - househusband
    - front:
-      - دانستن 
+      - دانستن
       - dAnestan
       - dunestan
      back:
       - to know
       - know
    - front:
-      - دایی 
+      - دایی
       - dAii
      back:
       - maternal uncle
    - front:
-      - دخترخاله 
+      - دخترخاله
       - doxtarxAlE
      back:
       - female maternal cousin
       - cousin
    - front:
-      - دور 
+      - دور
       - dur
      back:
-      - far 
+      - far
    - front:
-      - سال 
+      - سال
       - sAl
      back:
       - year
    - front:
-      - شغل 
+      - شغل
       - shoql
      back:
       - job
       - profession
    - front:
-      - طبقه 
+      - طبقه
       - tabaqE
      back:
       - floor
    - front:
-      - خیابان 
+      - خیابان
       - xiAbAn
       - xiAbun
      back:
       - street
       - road
    - front:
-      - کارگر 
+      - کارگر
       - kArgar
      back:
       - worker (blue collar)
       - worker
    - front:
-      - کارمند 
+      - کارمند
       - kArmand
      back:
       - office worker (white collar)
-      - office worker 
+      - office worker
    - front:
-      - مهندس 
+      - مهندس
       - mohandes
      back:
       - engineer
    - front:
-      - عمو 
+      - عمو
       - amu
      back:
       - paternal uncle
       - uncle
    - front:
-      - عمّه 
-      - عمه 
+      - عمّه
+      - عمه
       - ammE
       - amE
      back:
       - paternal aunt
       - aunt
    - front:
-      - فروختن 
+      - فروختن
       - foruxtan
      back:
       - to sell
       - sell
    - front:
-      - کتابفروشی 
+      - کتابفروشی
       - ketAbforushi
      back:
       - bookstore
       - bookshop
    - front:
-      - کو 
+      - کو
       - ku
      back:
       - Where is?
       - where is
    - front:
-      - کوچه 
+      - کوچه
       - kuchE
      back:
       - alley
    - front:
-      - نزدیک 
+      - نزدیک
       - nazdik
      back:
       - close, nearby
@@ -1261,29 +1261,29 @@
 - name: Book 1, Lesson 13
   cards:
    - front:
-      - انقلاب 
+      - انقلاب
       - enqelAb
      back:
       - revolution
    - front:
-      - باید 
+      - باید
       - bAyad
      back:
       - must, should
       - must
       - should
    - front:
-      - برای 
+      - برای
       - barAie
      back:
       - for
    - front:
-      - تخفیف 
+      - تخفیف
       - taxfif
      back:
       - discount
    - front:
-      - توانستن 
+      - توانستن
       - tavAnestan
       - tunestan
      back:
@@ -1291,23 +1291,23 @@
       - be able
       - can
    - front:
-      - لباس 
+      - لباس
       - lebAs
      back:
       - clothes
       - clothing
    - front:
-      - چرا 
+      - چرا
       - cherA
      back:
       - why
    - front:
-      - چقدر 
+      - چقدر
       - cheqadr
      back:
       - how much
    - front:
-      - چون 
+      - چون
       - chon
       - chun
      back:
@@ -1315,19 +1315,19 @@
       - because
       - since
    - front:
-      - چیز 
+      - چیز
       - chiz
      back:
       - thing
    - front:
-      - خرید 
+      - خرید
       - xarid
      back:
       - purchase, shopping
       - purchase
       - shopping
    - front:
-      - خرید کردن 
+      - خرید کردن
       - xarid kardan
      back:
       - to go shopping
@@ -1335,7 +1335,7 @@
       - to shop
       - shop
    - front:
-      - خریدن 
+      - خریدن
       - xaridan
      back:
       - to buy, to purchase
@@ -1344,13 +1344,13 @@
       - to purchase
       - purchase
    - front:
-      - خواستن 
+      - خواستن
       - xAstan
      back:
       - to want
       - want
    - front:
-      - ریال 
+      - ریال
       - riAl
      back:
       - currency of Iran
@@ -1358,58 +1358,58 @@
       - Iranian dollar
       - Iranian money
    - front:
-      - صد 
+      - صد
       - sad
      back:
       - hundred
       - 100
    - front:
-      - قیمت 
+      - قیمت
       - qeimat
      back:
       - price
    - front:
-      - کس 
+      - کس
       - kas
       - kes
      back:
       - person
    - front:
-      - مردم 
+      - مردم
       - mardom
      back:
       - people
    - front:
-      - مغازه 
+      - مغازه
       - maqAzE
      back:
       - shop
    - front:
-      - هزار 
+      - هزار
       - hezAr
      back:
       - thousand
       - 1000
    - front:
-      - پول 
+      - پول
       - pul
      back:
       - money
 - name: Book 1, Lesson 14
   cards:
    - front:
-      - پنجشنبه 
+      - پنجشنبه
       - panjshanbe
       - panjshambe
      back:
       - Thursday
    - front:
-      - پیاده 
+      - پیاده
       - piAdE
      back:
       - on foot
    - front:
-      - پیاده شدن 
+      - پیاده شدن
       - piAdE shodan
      back:
       - to get off, to dismount
@@ -1418,7 +1418,7 @@
       - to dismount
       - dismount
    - front:
-      - تعطیل 
+      - تعطیل
       - ta'til
      back:
       - holiday, vacation, closed
@@ -1426,28 +1426,28 @@
       - vacation
       - closed
    - front:
-      - جمعه 
+      - جمعه
       - jom'E
      back:
       - Friday
    - front:
-      - اتوبوس 
+      - اتوبوس
       - otobus
      back:
       - bus
    - front:
-      - جنوب 
+      - جنوب
       - jonub
      back:
       - south
    - front:
-      - چهارراه 
+      - چهارراه
       - chahArrAh
       - chehArrAh
      back:
       - crossroad
    - front:
-      - چهارشنبه 
+      - چهارشنبه
       - chahArshanbE
       - chahArshambE
       - chehArshanbE
@@ -1455,12 +1455,12 @@
      back:
       - Wednesday
    - front:
-      - خلوت 
+      - خلوت
       - xalvat
      back:
       - not crowded
    - front:
-      - دیدن 
+      - دیدن
       - didan
      back:
       - to see
@@ -1468,13 +1468,13 @@
       - to watch
       - watch
    - front:
-      - رسیدن 
+      - رسیدن
       - residan
      back:
       - to reach
       - reach
    - front:
-      - رفت و آمد 
+      - رفت و آمد
       - raftoAmad
       - raft o Amad
       - raftoumad
@@ -1482,7 +1482,7 @@
      back:
       - traffic
    - front:
-      - رفت و آمد کردن 
+      - رفت و آمد کردن
       - raftoAmad kardan
       - raft o Amad kardan
       - raftoumad kardan
@@ -1491,61 +1491,61 @@
       - to come and go
       - come and go
    - front:
-      - سوار شدن 
+      - سوار شدن
       - savAr shodan
      back:
       - to get on
       - get on
    - front:
-      - سه‌شنبه 
-      - سه شنبه 
-      - سهشنبه 
+      - سه‌شنبه
+      - سه شنبه
+      - سهشنبه
       - sEshanbE
       - sEshambE
      back:
       - Tuesday
    - front:
-      - شلوغ 
+      - شلوغ
       - sholuq
      back:
       - crowded
    - front:
-      - شمال 
+      - شمال
       - shomAl
      back:
       - north
    - front:
-      - شنبه 
+      - شنبه
       - shanbE
       - shambE
      back:
       - Saturday
    - front:
-      - وسیله 
+      - وسیله
       - vasilE
      back:
       - means, means of transport
       - means
       - means of transport
    - front:
-      - هفته 
+      - هفته
       - haftE
      back:
       - week
    - front:
-      - اتومبیل 
+      - اتومبیل
       - otomobil
      back:
       - automobile, car
       - automobile
       - car
    - front:
-      - تاکسی 
+      - تاکسی
       - tAksi
      back:
       - taxi
    - front:
-      - مترو 
+      - مترو
       - metro
      back:
       - metro
@@ -1559,23 +1559,23 @@
 - name: Book 1, Lesson 15
   cards:
    - front:
-      - آب 
+      - آب
       - Ab
      back:
       - water
    - front:
-      - آهسته 
+      - آهسته
       - AhestE
      back:
       - slowly
       - slow
    - front:
-      - اغلب 
+      - اغلب
       - aqlab
      back:
       - often
    - front:
-      - اگر 
+      - اگر
       - agar
       - agE
      back:
@@ -1587,7 +1587,7 @@
       - to take
       - take
    - front:
-      - بشقاب 
+      - بشقاب
       - boshqAb
      back:
       - plate
@@ -1597,22 +1597,22 @@
      back:
       - fast
    - front:
-      - چنگال 
+      - چنگال
       - changAl
      back:
       - fork
    - front:
-      - سوپ 
+      - سوپ
       - sup
      back:
       - soup
    - front:
-      - سینی 
+      - سینی
       - sini
      back:
       - tray
    - front:
-      - غذا 
+      - غذا
       - qazA
      back:
       - food
@@ -1623,35 +1623,35 @@
       - to eat
       - eat
    - front:
-      - قاشق 
+      - قاشق
       - qAshoq
      back:
       - spoon
    - front:
-      - قبول 
+      - قبول
       - qabul
      back:
       - accepted, passed
       - passed
       - accepted
    - front:
-      - کافی 
+      - کافی
       - kAfi
      back:
       - enough
    - front:
-      - گذاشتن 
+      - گذاشتن
       - gozAshtan
      back:
       - to put
       - put
    - front:
-      - سالاد 
+      - سالاد
       - sAlAd
      back:
       - salad
    - front:
-      - لیوان 
+      - لیوان
       - livAn
      back:
       - cup, glass
@@ -1659,29 +1659,29 @@
       - cup
    - front:
       - لذّت
-      - لذت 
+      - لذت
       - lezat
       - lezzat
      back:
       - pleasure
    - front:
       - لطفاً
-      - لطفا 
+      - لطفا
       - lotfan
      back:
       - please
    - front:
-      - وقت 
+      - وقت
       - vaqt
      back:
       - time
    - front:
-      - یعنی 
+      - یعنی
       - ya'ni
      back:
       - means
    - front:
-      - نوشابه 
+      - نوشابه
       - nushAbE
      back:
       - soft drinks, beverages
@@ -1690,13 +1690,13 @@
 - name: Book 1, Lesson 16
   cards:
    - front:
-      - استفاده کردن 
+      - استفاده کردن
       - estefAdE kardan
      back:
       - to use
       - use
    - front:
-      - الفبا 
+      - الفبا
       - alefbA
      back:
       - alphabet
@@ -1709,7 +1709,7 @@
       - hello?
       - hello
    - front:
-      - بخشیدن 
+      - بخشیدن
       - baxshidan
      back:
       - to excuse, to forgive
@@ -1718,87 +1718,87 @@
       - to forgive
       - forgive
    - front:
-      - تلفن 
+      - تلفن
       - telefon
      back:
       - telephone
    - front:
-      - پست 
+      - پست
       - post
      back:
       - post, mail
       - post
       - mail
    - front:
-      - پستی 
+      - پستی
       - posti
      back:
       - postal
    - front:
-      - تاریخ 
+      - تاریخ
       - tArix
      back:
       - date, history
       - date
       - history
    - front:
-      - تلفن زدن 
+      - تلفن زدن
       - telefon zadan
      back:
       - to call (on the phone)
       - to call
       - call
    - front:
-      - تولّد 
-      - تولد 
+      - تولّد
+      - تولد
       - tavalod
       - tavallod
      back:
       - birth
       - birthday
    - front:
-      - حرف 
+      - حرف
       - harf
      back:
       - talk, letter (of the alphabet)
       - talk
       - letter
    - front:
-      - شماره گرفتن 
+      - شماره گرفتن
       - shomArE gereftan
      back:
       - to dial
       - dial
    - front:
-      - صدا 
+      - صدا
       - sedA
      back:
       - sound, voice
       - sound
       - voice
    - front:
-      - عمومی 
+      - عمومی
       - omumi
      back:
       - public
    - front:
-      - لازم 
+      - لازم
       - lAzem
      back:
       - necessary
    - front:
-      - محل 
+      - محل
       - mahal
      back:
       - place
       - location
    - front:
-      - نام 
+      - نام
       - nAm
      back:
       - name
    - front:
-      - نشانی 
+      - نشانی
       - neshAni
      back:
       - address
@@ -1810,13 +1810,13 @@
       - letter
    - front:
       - سکّه
-      - سکه 
+      - سکه
       - sekE
       - sekkE
      back:
       - coin
    - front:
-      - گوشی 
+      - گوشی
       - gushi
      back:
       - headphones, telephone handset
@@ -1827,44 +1827,44 @@
 - name: Book 2, Lesson 1
   cards:
    - front:
-      - ابی 
+      - ابی
       - Abi
      back:
       - blue
    - front:
-      - اثر 
+      - اثر
       - asar
      back:
       - monument
    - front:
-      - تاریخی 
+      - تاریخی
       - tArixi
      back:
       - historical
    - front:
-      - دانش 
+      - دانش
       - dAnesh
      back:
       - knowledge, science
    - front:
-      - دانشمند 
+      - دانشمند
       - dAneshmand
      back:
       - scientist
    - front:
-      - دیدنی 
+      - دیدنی
       - didani
      back:
       - interesting (to see)
       - interesting to see
       - interesting
    - front:
-      - شاعر 
+      - شاعر
       - shA'er
      back:
       - poet
    - front:
-      - شناختن 
+      - شناختن
       - shenAxtan
      back:
       - to know (a person), to recognize
@@ -1873,35 +1873,35 @@
       - to recognize
       - recognize
    - front:
-      - شناسایی 
+      - شناسایی
       - shenAsAii
      back:
       - recognition
    - front:
-      - کیلومتر 
+      - کیلومتر
       - kilometr
       - kilumetr
      back:
       - kilometer
    - front:
-      - نشان 
+      - نشان
       - neshAn
      back:
       - sign
       - symbol
    - front:
-      - نشان دادن 
+      - نشان دادن
       - neshAn dAdan
      back:
       - to show
       - show
    - front:
-      - واقع 
+      - واقع
       - vAqe
      back:
       - located
    - front:
-      - هر دو 
+      - هر دو
       - har do
      back:
       - both
@@ -1922,7 +1922,7 @@
      back:
       - cave
    - front:
-      - سرامیک 
+      - سرامیک
       - serAmik
      back:
       - ceramic
@@ -1930,259 +1930,259 @@
 - name: Book 2, Lesson 2
   cards:
    - front:
-      - ارتفاع 
+      - ارتفاع
       - ertefA'
      back:
       - height
    - front:
-      - بزرگراه 
+      - بزرگراه
       - bozorgrAh
       - bozorgrA
      back:
       - highway
       - freeway
    - front:
-      - اکنون 
+      - اکنون
       - aknun
      back:
       - now
    - front:
-      - بسیار 
+      - بسیار
       - besiar
      back:
       - many, much
       - many
       - much
    - front:
-      - بیش 
+      - بیش
       - bish
      back:
       - more
    - front:
-      - برج 
+      - برج
       - borj
      back:
       - tower
    - front:
-      - جالب 
+      - جالب
       - jAleb
      back:
       - interesting
    - front:
-      - جمعیت 
+      - جمعیت
       - jam'iiat
       - jam'iat
      back:
       - population
    - front:
-      - راه 
+      - راه
       - rAh
      back:
       - way
    - front:
-      - زیبا 
+      - زیبا
       - zibA
      back:
       - beautiful
    - front:
-      - شمردن 
+      - شمردن
       - shomordan
      back:
       - to count
       - count
    - front:
-      - فهمیدن 
+      - فهمیدن
       - fahmidan
      back:
       - to understand
    - front:
-      - مختلف 
+      - مختلف
       - moxtalef
      back:
       - varied, different
       - varied
       - different
    - front:
-      - مقایسه 
+      - مقایسه
       - moqAiesE
      back:
       - comparison
    - front:
-      - مقایسه کردن 
+      - مقایسه کردن
       - moqAiesE kardan
      back:
       - to compare
    - front:
-      - مهاجرت 
+      - مهاجرت
       - mohAjerat
      back:
       - emigration
    - front:
-      - مهم 
+      - مهم
       - mohem
      back:
       - important
    - front:
-      - میلیون 
+      - میلیون
       - milion
      back:
       - million
    - front:
-      - نقطه 
+      - نقطه
       - noqetE
      back:
       - point
    - front:
-      - وجود 
+      - وجود
       - vojud
      back:
       - existence
    - front:
-      - وجود داشتن 
+      - وجود داشتن
       - vojud dAshtan
      back:
       - to exist
    - front:
-      - ساختمان 
+      - ساختمان
       - sAxtemAn
       - sAxtemun
      back:
       - building
    - front:
-      - کوه 
+      - کوه
       - kuh
      back:
       - mountain
    - front:
-      - هتل 
+      - هتل
       - hotel
      back:
       - hotel
 - name: Book 2, Lesson 3
   cards:
    - front:
-      - آزاد 
+      - آزاد
       - AzAd
      back:
       - free, open
       - free
       - open
    - front:
-      - اسلام 
+      - اسلام
       - eslAm
      back:
       - Islam
    - front:
-      - اسلامی 
+      - اسلامی
       - eslAmi
      back:
       - Islamic
       - muslim
    - front:
-      - امسال 
+      - امسال
       - emsAl
      back:
       - this year
    - front:
-      - امشب 
+      - امشب
       - emshab
      back:
       - tonight
    - front:
-      - استخر 
+      - استخر
       - estaxr
      back:
       - swimming pool
       - pool
    - front:
-      - بازی 
+      - بازی
       - bAzi
      back:
       - game
    - front:
-      - بازی کردن 
+      - بازی کردن
       - bAzi kardan
      back:
       - to play
    - front:
-      - پارسال 
+      - پارسال
       - pArsAl
      back:
       - last year
    - front:
-      - پریروز 
+      - پریروز
       - pariruz
      back:
       - day before yesterday
       - two days ago
    - front:
-      - پریشب 
+      - پریشب
       - parishab
      back:
       - night before last night
       - night before last
       - two nights ago
    - front:
-      - پس‌فردا 
-      - پسفردا 
+      - پس‌فردا
+      - پسفردا
       - pasfardA
      back:
       - day after tomorrow
    - front:
-      - تحصیل کردن 
+      - تحصیل کردن
       - tahsil kardan
      back:
       - to study
       - study
    - front:
-      - دانشکده 
+      - دانشکده
       - dAneshkadE
      back:
       - department, faculty
       - department
       - faculty
    - front:
-      - زمین 
+      - زمین
       - zamin
      back:
       - ground
       - field
    - front:
-      - مخصوص 
+      - مخصوص
       - maxsus
      back:
       - special
    - front:
-      - ورزش 
+      - ورزش
       - varzesh
      back:
       - sport, exercise
       - sport
       - exercise
    - front:
-      - ورزش کردن 
+      - ورزش کردن
       - varzesh kardan
      back:
       - to exercise
       - exercise
    - front:
-      - ولی 
+      - ولی
       - vali
      back:
       - but
    - front:
-      - یاد گرفتن 
+      - یاد گرفتن
       - yAd gereftan
      back:
       - to learn
       - learn
    - front:
-      - شنا 
+      - شنا
       - shenA
      back:
       - swimming
    - front:
-      - سالن 
+      - سالن
       - sAlon
      back:
       - court (for sports)
@@ -2190,14 +2190,14 @@
 - name: Book 2, Lesson 4
   cards:
    - front:
-      - آشنا 
+      - آشنا
       - AshnA
       - AshenA
      back:
       - acquaintance
       - acquainted
    - front:
-      - آشنا کردن 
+      - آشنا کردن
       - AshnA kardan
       - AshenA kardan
      back:
@@ -2206,24 +2206,24 @@
       - to get acquainted
       - get acquainted
    - front:
-      - آموختن 
+      - آموختن
       - Amuxtan
      back:
       - to learn
       - learn
    - front:
-      - برزیل 
+      - برزیل
       - berezil
      back:
       - Brazil
    - front:
-      - بلد بودن 
+      - بلد بودن
       - balad budan
      back:
       - to know
       - know
    - front:
-      - حرف زدن 
+      - حرف زدن
       - harf zadan
      back:
       - to speak
@@ -2231,156 +2231,156 @@
       - to talk
       - talk
    - front:
-      - خارج 
+      - خارج
       - xArej
      back:
       - outside
       - out
    - front:
-      - خارجی 
+      - خارجی
       - xAreji
      back:
       - foreign, foreigner
       - foreign
       - foreigner
    - front:
-      - درس دادن 
+      - درس دادن
       - dars dAdan
      back:
       - to teach
       - teach
    - front:
-      - زدن 
+      - زدن
       - zadan
      back:
       - to hit
       - hit
    - front:
-      - زن 
+      - زن
       - zan
      back:
       - woman, wife
       - woman
       - wife
    - front:
-      - سن 
+      - سن
       - seb
      back:
       - age
    - front:
-      - غیر 
+      - غیر
       - qeir
      back:
       - non-
       - non
    - front:
       - کاملاً
-      - کاملا 
+      - کاملا
       - kAmelan
      back:
       - completely, perfectly
       - completely
       - perfectly
    - front:
-      - گروه 
+      - گروه
       - goruh
      back:
       - group
    - front:
-      - لژزات بردن 
+      - لژزات بردن
       - lezzat bordan
       - lezat bordan
      back:
       - to enjoy
       - enjoy
    - front:
-      - مرد 
+      - مرد
       - mard
      back:
       - man
    - front:
-      - همیشه 
+      - همیشه
       - hamishE
      back:
       - always
    - front:
-      - آلمان 
+      - آلمان
       - AlmAn
      back:
       - Germany
    - front:
-      - انگلستان 
+      - انگلستان
       - engelestAn
      back:
       - England
    - front:
-      - لهستان 
+      - لهستان
       - lahestAn
      back:
       - Poland
    - front:
-      - ژاپن 
+      - ژاپن
       - jApon
      back:
       - Japan
 - name: Book 2, Lesson 5
   cards:
    - front:
-      - آزادی 
+      - آزادی
       - AzAdi
      back:
       - freedom
    - front:
-      - تماشا کردن 
+      - تماشا کردن
       - tamAshA kardan
      back:
       - to watch
       - watch
    - front:
-      - خود 
+      - خود
       - xod
      back:
       - self
       - own
    - front:
-      - داخل 
+      - داخل
       - dAxel
      back:
       - inside
    - front:
-      - پارک 
+      - پارک
       - pArk
      back:
       - park
    - front:
-      - وست 
+      - وست
       - vasat
      back:
       - middle
       - center
    - front:
-      - سبز 
+      - سبز
       - sabz
      back:
       - green
    - front:
-      - سفید 
+      - سفید
       - sefid
      back:
       - white
    - front:
-      - شاید 
+      - شاید
       - shAiad
      back:
       - perhaps
       - maybe
    - front:
-      - فیلم 
+      - فیلم
       - film
      back:
       - film
    - front:
-      - قرار داشتن 
+      - قرار داشتن
       - qarAr dAshtan
      back:
       - to be located
@@ -2392,24 +2392,24 @@
       - to walk
       - walk
    - front:
-      - مربوط 
+      - مربوط
       - marbut
      back:
       - related to
       - related
    - front:
-      - معماری 
+      - معماری
       - me'mAri
      back:
       - architecture
    - front:
-      - ممکن 
+      - ممکن
       - momken
      back:
       - possible
    - front:
-      - هرکس 
-      - هرکسی 
+      - هرکس
+      - هرکسی
       - harkas
       - harkasi
       - harkes
@@ -2418,15 +2418,15 @@
       - everybody
       - everyone
    - front:
-      - هیچ 
+      - هیچ
       - hich
      back:
       - none, no
       - none
       - no
    - front:
-      - هیچکس 
-      - هیچکسی 
+      - هیچکس
+      - هیچکسی
       - hichkas
       - hichkasi
       - hichkes
@@ -2436,23 +2436,23 @@
       - nobody
       - no one
    - front:
-      - فرودگاه 
+      - فرودگاه
       - forudgAh
      back:
       - airport
    - front:
-      - ماشین 
+      - ماشین
       - mAshin
      back:
       - car
    - front:
-      - موسیقی 
+      - موسیقی
       - musiqi
      back:
       - music
    - front:
-      - نقّاشی 
-      - نقاشی 
+      - نقّاشی
+      - نقاشی
       - naqqAshi
       - naqAshi
      back:
@@ -2460,84 +2460,84 @@
 - name: Book 2, Lesson 6
   cards:
    - front:
-      - آسمان 
+      - آسمان
       - AsemAn
       - Asemun
      back:
       - sky
    - front:
-      - باغ 
+      - باغ
       - bAq
      back:
       - garden
    - front:
-      - نظر 
+      - نظر
       - nazar
      back:
       - opinion
    - front:
-      - پر 
+      - پر
       - por
      back:
       - full
    - front:
-      - باغچه 
+      - باغچه
       - bAqchE
      back:
       - little garden
       - small garden
    - front:
-      - درخت 
+      - درخت
       - deraxt
      back:
       - tree
    - front:
-      - خنک 
+      - خنک
       - xonak
      back:
       - cool
    - front:
-      - ربع 
+      - ربع
       - rob'
      back:
       - quarter
    - front:
-      - زرد 
+      - زرد
       - zard
      back:
       - yellow
    - front:
-      - سرخ 
+      - سرخ
       - sorx
      back:
       - red
    - front:
-      - صاف 
+      - صاف
       - sAf
      back:
       - clear
    - front:
-      - فصل 
+      - فصل
       - fasl
      back:
       - season
    - front:
-      - گرسنه 
+      - گرسنه
       - gorosnE
      back:
       - hungry
    - front:
-      - گرم 
+      - گرم
       - garm
      back:
       - warm
    - front:
-      - ماه 
+      - ماه
       - mAh
      back:
       - month
    - front:
-      - مخالف 
+      - مخالف
       - moxAlef
      back:
       - antonym
@@ -2550,7 +2550,7 @@
       - especially
    - front:
       - ملّت
-      - ملت 
+      - ملت
       - mellat
       - melat
      back:
@@ -2558,33 +2558,33 @@
       - people
       - nation
    - front:
-      - وقتی که 
+      - وقتی که
       - vaqti ke
      back:
       - when
    - front:
-      - هم‌معنی 
+      - هم‌معنی
       - hamma'ni
       - hama'ni
      back:
       - synonym
    - front:
-      - هوا 
+      - هوا
       - havA
      back:
       - weather
    - front:
-      - دریا 
+      - دریا
       - dariA
      back:
       - ocean
    - front:
-      - دریاچه 
+      - دریاچه
       - dariAchE
      back:
       - lake
    - front:
-      - شیرینی 
+      - شیرینی
       - shirini
      back:
       - sweets, dessert, candy
@@ -2592,40 +2592,40 @@
       - dessert
       - candy
    - front:
-      - گل 
+      - گل
       - gol
      back:
       - flower
 - name: Book 2, Lesson 7
   cards:
    - front:
-      - تا حالا 
+      - تا حالا
       - tA hAlA
      back:
       - until now
       - till now
    - front:
-      - تاریک 
+      - تاریک
       - tArik
      back:
       - dark
    - front:
-      - جنگ 
+      - جنگ
       - jang
      back:
       - war
    - front:
-      - دشمن 
+      - دشمن
       - doshman
      back:
       - enemy
    - front:
-      - دعوت 
+      - دعوت
       - da'vat
      back:
       - invitation
    - front:
-      - دعوت کردن 
+      - دعوت کردن
       - da'vat kardan
      back:
       - to invite
@@ -2644,30 +2644,30 @@
      back:
       - traditional
    - front:
-      - شعر 
+      - شعر
       - she'r
       - she'er
      back:
       - poem
    - front:
-      - شوهر 
+      - شوهر
       - shohar
       - showhar
      back:
       - husband
    - front:
-      - مادربزرگ 
+      - مادربزرگ
       - mAdarbozorg
      back:
       - grandmother
    - front:
-      - قرمز 
+      - قرمز
       - qermez
      back:
       - red
    - front:
-      - میهمان  
-      - مهمان 
+      - میهمان
+      - مهمان
       - mihmAn
       - mihmun
       - mehmAn
@@ -2676,7 +2676,7 @@
       - guest
    - front:
       - میهمانی
-      - مهمانی 
+      - مهمانی
       - mihmAni
       - mihmuni
       - mehmAni
@@ -2684,49 +2684,49 @@
      back:
       - party
    - front:
-      - نادان 
+      - نادان
       - nAdAn
      back:
       - ignorant
    - front:
-      - نزدیکان 
+      - نزدیکان
       - nazdikAn
      back:
       - close friends
    - front:
-      - وارد شدن 
+      - وارد شدن
       - vAred shodan
      back:
       - to enter
    - front:
-      - هنوز 
+      - هنوز
       - hanuz
      back:
       - still, yet
       - still
       - yet
    - front:
-      - یلدا 
+      - یلدا
       - yaldA
      back:
       - winter solstice
    - front:
-      - آنار 
+      - آنار
       - AnAr
      back:
       - pomegranate
    - front:
-      - فرش 
+      - فرش
       - farsh
      back:
       - rug
    - front:
-      - میوه 
+      - میوه
       - mivE
      back:
       - fruit
    - front:
-      - هندوانه 
+      - هندوانه
       - hendevAnE
       - hendunE
      back:
@@ -2734,55 +2734,55 @@
 - name: Book 2, Lesson 8
   cards:
    - front:
-      - ارزان 
+      - ارزان
       - arzAn
       - arzun
      back:
       - cheap
    - front:
-      - بازار 
+      - بازار
       - bAzAr
      back:
       - bazaar
       - market
    - front:
-      - بالا 
+      - بالا
       - bAlA
      back:
       - up
    - front:
-      - بهتر 
+      - بهتر
       - behtar
      back:
       - better
    - front:
-      - پیراهن 
+      - پیراهن
       - pirAhan
       - piran
      back:
       - shirt
    - front:
-      - بهترین 
+      - بهترین
       - behtarin
      back:
       - best
    - front:
-      - بیشتر 
+      - بیشتر
       - bishtar
      back:
       - more
    - front:
-      - بیشترین 
+      - بیشترین
       - bishtarin
      back:
       - most
    - front:
-      - پایین 
+      - پایین
       - pAiin
      back:
       - down
    - front:
-      - پوشیدن 
+      - پوشیدن
       - pushidan
      back:
       - to wear; to put on
@@ -2791,28 +2791,28 @@
       - to put on
       - put on
    - front:
-      - تجارت 
+      - تجارت
       - tejArat
      back:
       - commerce
       - trade
    - front:
-      - روی هم 
+      - روی هم
       - ruie ham
      back:
       - altogether
    - front:
-      - سیاه 
+      - سیاه
       - siAh
      back:
       - black
    - front:
-      - طلا 
+      - طلا
       - talA
      back:
       - gold
    - front:
-      - فرق 
+      - فرق
       - farq
      back:
       - difference
@@ -2822,60 +2822,60 @@
      back:
       - brown
    - front:
-      - گران 
+      - گران
       - gerAn
       - gerun
      back:
       - expensive
    - front:
-      - نخیر 
+      - نخیر
       - naxeir
      back:
       - no way
       - no
    - front:
-      - نقد 
+      - نقد
       - naqd
      back:
       - cash
    - front:
-      - دامن 
+      - دامن
       - dAman
      back:
       - skirt
    - front:
-      - شلوار 
+      - شلوار
       - shalvAr
      back:
       - pants
    - front:
-      - کت 
+      - کت
       - kot
      back:
       - coat
       - jacket
    - front:
-      - کفش 
+      - کفش
       - kafsh
      back:
       - shoe
 - name: Book 2, Lesson 9
   cards:
    - front:
-      - استراحت 
+      - استراحت
       - esterAhat
-     back: 
+     back:
       - rest
       - relax
    - front:
-      - بیمارستان 
+      - بیمارستان
       - bimArestAn
-     back: 
+     back:
       - hospital
    - front:
-      - بیمار شدن 
+      - بیمار شدن
       - bimAr shodan
-     back: 
+     back:
       - to become ill
       - become ill
       - to become sick
@@ -2883,138 +2883,138 @@
       - to get sick
       - get sick
    - front:
-      - بیماری 
+      - بیماری
       - bimAri
-     back: 
+     back:
       - illness
       - sickness
    - front:
-      - بیمار 
+      - بیمار
       - bimAr
-     back: 
+     back:
       - sick person
       - ill person
       - patient?###
    - front:
-      - پا 
+      - پا
       - pA
-     back: 
+     back:
       - foot
       - leg
    - front:
-      - جدید 
+      - جدید
       - jadid
-     back: 
+     back:
       - modern
       - new
    - front:
-      - درد 
+      - درد
       - dard
-     back: 
+     back:
       - pain
       - ache
    - front:
-      - درد کردن 
+      - درد کردن
       - dard kardan
-     back: 
+     back:
       - to ache
       - ache
       - to hurt
       - hurt
    - front:
-      - دست 
+      - دست
       - dast
-     back: 
+     back:
       - hand
    - front:
-      - دل 
+      - دل
       - del
-     back: 
+     back:
       - stomach
    - front:
-      - دهان 
+      - دهان
       - dahAn
       - dahan? ###
-     back: 
+     back:
       - mouth
    - front:
-      - شدید 
+      - شدید
       - shadid
-     back: 
+     back:
       - severe
    - front:
-      - صدا کردن 
+      - صدا کردن
       - sedA kardan
-     back: 
+     back:
       - to call
       - call
    - front:
-      - صورت 
+      - صورت
       - surat
-     back: 
+     back:
       - face
    - front:
-      - گلو 
+      - گلو
       - galu
-     back: 
+     back:
       - throat
    - front:
-      - معاینه 
+      - معاینه
       - mo'AienE
-     back: 
+     back:
       - examination
       - exam
    - front:
-      - معاینه کردن 
+      - معاینه کردن
       - mo'AienE kardan
-     back: 
+     back:
       - to examine
       - examine
    - front:
-      - موقع 
+      - موقع
       - moqe'
      back:
       - time
       - when
    - front:
-      - نسخه 
+      - نسخه
       - nosxE
-     back: 
+     back:
       - prescription
    - front:
-      - منشی 
+      - منشی
       - monshi
-     back: 
+     back:
       - receptionist
    - front:
-      - داروخانه 
+      - داروخانه
       - dAruxAnE
       - dAruxunE
-     back: 
+     back:
       - pharmacy
       - drug store
       - drugstore
    - front:
-      - دارو 
+      - دارو
       - dAru
-     back: 
+     back:
       - drug
       - medicine
    - front:
-      - پزشک 
+      - پزشک
       - pezeshk
-     back: 
+     back:
       - physician
       - doctor
 - name: Book 2, Lesson 10
   cards:
    - front:
-      - آرزو 
+      - آرزو
       - Arezu
      back:
       - wish
    - front:
-      - امام 
+      - امام
       - emAm
      back:
       - imam
@@ -3022,9 +3022,9 @@
       - امامزاده ###
       - emAmzAdE
      back:
-      - 
+      -
    - front:
-      - بی 
+      - بی
       - bi
      back:
       - without
@@ -3040,13 +3040,13 @@
      back:
       - saltless
    - front:
-      - پختن 
+      - پختن
       - poxtan
      back:
       - to cook
       - cook
    - front:
-      - ترش 
+      - ترش
       - torsh
      back:
       - sour
@@ -3056,23 +3056,23 @@
      back:
       - even
    - front:
-      - دعا کردن 
+      - دعا کردن
       - do'A kardan
      back:
       - to pray
       - pray
    - front:
-      - زیارت 
+      - زیارت
       - ziArat
      back:
       - pilgrimage
    - front:
-      - شکر 
+      - شکر
       - shekar
      back:
       - sugar
    - front:
-      - طرف 
+      - طرف
       - taraf
      back:
       - side ###
@@ -3082,48 +3082,48 @@
      back:
       - group? ###
    - front:
-      - ماندن 
+      - ماندن
       - mAndan
       - mundan
      back:
       - to stay
       - stay
    - front:
-      - مزه 
+      - مزه
       - mazE
      back:
       - taste
    - front:
-      - بذر 
+      - بذر
       - bazr
      back:
       - vow
    - front:
-      - نماز خواندن 
+      - نماز خواندن
       - namAz xAndan
       - namAz xundan
      back:
       - to perform one's prayers ###
    - front:
-      - نمک 
+      - نمک
       - namak
      back:
       - salt
 - name: Book 2, Lesson 11
   cards:
    - front:
-      - ایستادن 
+      - ایستادن
       - istAdan
      back:
       - to stand
       - stand
    - front:
-      - ایستگاه 
+      - ایستگاه
       - istgAh
      back:
-      - 
+      -
    - front:
-      - باریدن 
+      - باریدن
       - bAridan
      back:
       - to rain
@@ -3136,13 +3136,13 @@
       - rest
       - remainder
    - front:
-      - به طرف 
+      - به طرف
       - be taraf
       - be tarafe
      back:
       - towards
    - front:
-      - اسکی 
+      - اسکی
       - eski
      back:
       - ski
@@ -3152,13 +3152,13 @@
      back:
       - walking
    - front:
-      - تابستان 
+      - تابستان
       - tAbestAn
       - tAbestun
      back:
       - summer
    - front:
-      - چندم 
+      - چندم
       - chandom
      back:
       - which (of a certain number)
@@ -3170,30 +3170,30 @@
       - second
       - 2nd
    - front:
-      - راحت 
+      - راحت
       - rAhat
      back:
       - convenient
    - front:
-      - راه رفتن 
+      - راه رفتن
       - rAh raftan
      back:
       - to walk
       - walk
    - front:
-      - رساندن 
+      - رساندن
       - resAndan
       - resundan
      back:
       - to cause to reach ###
       - cause to reach
    - front:
-      - سنک 
+      - سنک
       - sanok
      back:
       - light
    - front:
-      - سنگین 
+      - سنگین
       - sangin
      back:
       - heavy
@@ -3204,23 +3204,23 @@
       - third
       - 3rd
    - front:
-      - عالی 
+      - عالی
       - 'ali
      back:
       - excellent
    - front:
-      - فکر 
+      - فکر
       - fekr
      back:
       - thought
    - front:
-      - فکر کردن 
+      - فکر کردن
       - fekr kardan
      back:
       - to think
       - think
    - front:
-      - هرچیز 
+      - هرچیز
       - harchiz
      back:
       - everything
