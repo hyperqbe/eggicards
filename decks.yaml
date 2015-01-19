@@ -2934,7 +2934,7 @@
    - front:
       - دهان
       - dahAn
-      - dahan? ###
+      - dahan
      back:
       - mouth
    - front:
@@ -3019,10 +3019,10 @@
      back:
       - imam
    - front:
-      - امامزاده ###
+      - امام‌زاده
       - emAmzAdE
      back:
-      -
+      - shrine
    - front:
       - بی
       - bi
@@ -3030,12 +3030,12 @@
       - without
       - -less
    - front:
-      - بیمزه ###
+      - بی‌مزه
       - bimazE
      back:
       - tasteless
    - front:
-      - بینمک ###
+      - بی‌نمک
       - binamak
      back:
       - saltless
@@ -3051,7 +3051,7 @@
      back:
       - sour
    - front:
-      - حتی ###
+      - حتی ###^^
       - hatti
      back:
       - even
@@ -3077,7 +3077,7 @@
      back:
       - side ###
    - front:
-      - عده ###
+      - عده ###^^
       - eddE
      back:
       - group? ###
@@ -3129,7 +3129,7 @@
       - to rain
       - rain
    - front:
-      - بقیه ###
+      - بقیه ###^^
       - baqiiE
      back:
       - rest, remainder
@@ -3147,7 +3147,7 @@
      back:
       - ski
    - front:
-      - پیاده روی ###
+      - پیاده‌روی
       - piAdEravi
      back:
       - walking
@@ -3164,7 +3164,7 @@
       - which (of a certain number)
       - which
    - front:
-      - دوم ###
+      - دوم ###^^
       - dovom
      back:
       - second
@@ -3198,7 +3198,7 @@
      back:
       - heavy
    - front:
-      - سوم ###
+      - سوم ###^^
       - sevom
      back:
       - third
@@ -3225,19 +3225,19 @@
      back:
       - everything
    - front:
-      - هیچچیز ###
+      - هیچ‌چیز
       - hichchiz
      back:
       - nothing
    - front:
-      - تله کابین ###
+      - تله‌کابین
       - telE kAbin
       - telEkAbin
      back:
       - ski lift
       - lift
    - front:
-      - کوهنوردی ###
+      - کوه‌نوردی
       - kuhnavardi
      back:
       - hiking
@@ -3259,7 +3259,7 @@
       - to reside
       - reside
    - front:
-      - الان ###
+      - الان ###''
       - alAn
      back:
       - just now
@@ -3292,7 +3292,7 @@
       - to return
       - return
    - front:
-      - تقریبا ###
+      - تقریبا ###''
       - taqriban
      back:
       - almost
@@ -3302,7 +3302,7 @@
      back:
       - eye
    - front:
-      - حتما  ###
+      - حتما  ###''
       - hatman
      back:
       - certainly
@@ -3392,7 +3392,7 @@
      back:
       - the great
    - front:
-      - بهبه ###
+      - به‌به
       - bahbah
      back:
       - excellent
@@ -3435,7 +3435,7 @@
      back:
       - to forget
    - front:
-      - قبلا ###
+      - قبلا ###''
       - qablan
      back:
       - ???
@@ -3477,7 +3477,7 @@
       - whenever
       - every time
    - front:
-      - هیچوقت ###
+      - هیچ‌وقت
       - hichvaqt
      back:
       - never ###???
@@ -3611,7 +3611,7 @@
      back:
       - thankful
    - front:
-      - کارتپول ### #
+      - کارت‌پول
       - kartpul
      back:
       - credit card
@@ -3761,6 +3761,7 @@
    - front:
       - سینما
       - sinamA
+      - sinemA ###???
      back:
       - theater ??? ###
    - front:
