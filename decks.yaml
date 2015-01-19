@@ -3006,3 +3006,106 @@
      back: 
       - physician
       - doctor
+- name: Book 2, Lesson 10
+  cards:
+   - front:
+      - آرزو 
+      - Arezu
+     back:
+      - wish
+   - front:
+      - امام 
+      - emAm
+     back:
+      - imam
+   - front:
+      - امامزاده ###
+      - emAmzAdE
+     back:
+      - 
+   - front:
+      - بی 
+      - bi
+     back:
+      - without
+      - -less
+   - front:
+      - بیمزه ###
+      - bimazE
+     back:
+      - tasteless
+   - front:
+      - بینمک ###
+      - binamak
+     back:
+      - saltless
+   - front:
+      - پختن 
+      - poxtan
+     back:
+      - to cook
+      - cook
+   - front:
+      - ترش 
+      - torsh
+     back:
+      - sour
+   - front:
+      - حتی ###
+      - hatti
+     back:
+      - even
+   - front:
+      - دعا کردن 
+      - do'A kardan
+     back:
+      - to pray
+      - pray
+   - front:
+      - زیارت 
+      - ziArat
+     back:
+      - pilgrimage
+   - front:
+      - شکر 
+      - shekar
+     back:
+      - sugar
+   - front:
+      - طرف 
+      - taraf
+     back:
+      - side ###
+   - front:
+      - عده ###
+      - eddE
+     back:
+      - group? ###
+   - front:
+      - ماندن 
+      - mAndan
+      - mundan
+     back:
+      - to stay
+      - stay
+   - front:
+      - مزه 
+      - mazE
+     back:
+      - taste
+   - front:
+      - بذر 
+      - bazr
+     back:
+      - vow
+   - front:
+      - نماز خواندن 
+      - namAz xAndan
+      - namAz xundan
+     back:
+      - to perform one's prayers ###
+   - front:
+      - نمک 
+      - namak
+     back:
+      - salt
