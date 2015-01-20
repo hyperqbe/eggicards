@@ -2894,7 +2894,6 @@
      back:
       - sick person
       - ill person
-      - patient?###
    - front:
       - پا
       - pA
@@ -3051,8 +3050,10 @@
      back:
       - sour
    - front:
-      - حتی ###^^
-      - hatti
+      - حتّی
+      - حتی
+      - hattA ###
+      - hatti ###
      back:
       - even
    - front:
@@ -3077,7 +3078,8 @@
      back:
       - side ###
    - front:
-      - عده ###^^
+      - عدّه
+      - عده
       - eddE
      back:
       - group? ###
@@ -3103,7 +3105,9 @@
       - namAz xAndan
       - namAz xundan
      back:
-      - to perform one's prayers ###
+      - to do daily prayers
+      - do daily prayers
+      - daily prayers
    - front:
       - نمک
       - namak
@@ -3164,7 +3168,8 @@
       - which (of a certain number)
       - which
    - front:
-      - دوم ###^^
+      - دوّم
+      - دوم
       - dovom
      back:
       - second
@@ -3185,8 +3190,11 @@
       - resAndan
       - resundan
      back:
-      - to cause to reach ###
+      - to cause to reach, to deliver
+      - to cause to reach
       - cause to reach
+      - to deliver
+      - deliver
    - front:
       - سنک
       - sanok
@@ -3198,7 +3206,7 @@
      back:
       - heavy
    - front:
-      - سوم ###^^
+      - سوّم
       - sevom
      back:
       - third
@@ -3246,9 +3254,10 @@
    - front:
       - آوردن
       - Avardan
-      - Avordan ? ###
+      - Avordan
      back:
-      - to bring ? ###
+      - to bring
+      - bring
    - front:
       - اقامت کردن
       - eqAmat kardan
@@ -3259,8 +3268,10 @@
       - to reside
       - reside
    - front:
-      - الان ###''
+      - الآن
+      - الان
       - alAn
+      - al'An
      back:
       - just now
       - now
@@ -3268,7 +3279,7 @@
       - آینده
       - AiandE
      back:
-      - future ? ###
+      - future
    - front:
       - اقامت
       - eqAmat
@@ -3292,7 +3303,8 @@
       - to return
       - return
    - front:
-      - تقریبا ###''
+      - تقریباً
+      - تقریبا
       - taqriban
      back:
       - almost
@@ -3302,7 +3314,8 @@
      back:
       - eye
    - front:
-      - حتما  ###''
+      - حتماً
+      - حتما
       - hatman
      back:
       - certainly
@@ -3365,7 +3378,7 @@
    - front:
       - گفتگو کردن
       - goftogu kardan
-      - goftegu kardan ###
+      - goftegu kardan
      back:
       - to discuss
       - discuss
@@ -3435,7 +3448,8 @@
      back:
       - to forget
    - front:
-      - قبلا ###''
+      - قبلاً
+      - قبلا
       - qablan
      back:
       - ???
@@ -3443,7 +3457,8 @@
       - قبول کردن
       - qabul kardan
      back:
-      - ???###
+      - to accept
+      - accept
    - front:
       - فرن
       - farn
@@ -3490,7 +3505,8 @@
 - name: Book 2, Lesson 14
   cards:
    - front:
-      - اطلاع ###^^
+      - اطّلاع
+      - اطلاع
       - ettelA'
      back:
       - information
@@ -3601,7 +3617,8 @@
      back:
       - apology
    - front:
-      - ملی ###^^
+      - ملّی
+      - ملی
       - melli
      back:
       - national
@@ -3666,8 +3683,9 @@
    - front:
       - پادشاه
       - pAdshAh
+      - pAdeshAh
      back:
-      - ??? ###
+      - king
    - front:
       - باستانی
       - bAstAni
@@ -3702,7 +3720,8 @@
       - to be formed
       - be formed
    - front:
-      - تمدن ###^^
+      - تمدّن
+      - تمدن
       - tamaddan
      back:
       - civilization
@@ -3747,7 +3766,7 @@
       - هنرمند
       - honarmand
      back:
-      - artist ??? ###
+      - artist
    - front:
       - هنری
       - honari
@@ -3761,11 +3780,11 @@
    - front:
       - سینما
       - sinamA
-      - sinemA ###???
+      - sinemA
      back:
-      - theater ??? ###
+      - theater
    - front:
       - قطار
       - qatAr
      back:
-      - train ??? ###
+      - train
