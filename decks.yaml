@@ -1978,7 +1978,9 @@
       - راه
       - rAh
      back:
+      - way, road
       - way
+      - road
    - front:
       - زیبا
       - zibA
@@ -2029,7 +2031,7 @@
       - million
    - front:
       - نقطه
-      - noqetE
+      - noqtE
      back:
       - point
    - front:
@@ -2077,7 +2079,6 @@
       - eslAmi
      back:
       - Islamic
-      - muslim
    - front:
       - امسال
       - emsAl
@@ -2196,6 +2197,7 @@
      back:
       - acquaintance
       - acquainted
+      - familiar
    - front:
       - آشنا کردن
       - AshnA kardan
@@ -2234,7 +2236,8 @@
       - خارج
       - xArej
      back:
-      - outside
+      - outside, foreign
+      - foreign
       - out
    - front:
       - خارجی
@@ -2264,7 +2267,7 @@
       - wife
    - front:
       - سن
-      - seb
+      - sen
      back:
       - age
    - front:
@@ -2287,7 +2290,8 @@
      back:
       - group
    - front:
-      - لژزات بردن
+      - لذّت بردن
+      - لذت بردن
       - lezzat bordan
       - lezat bordan
      back:
@@ -2389,8 +2393,8 @@
       - گردش کردن
       - gardesh kardan
      back:
-      - to walk
-      - walk
+      - to walk around
+      - walk around
    - front:
       - مربوط
       - marbut
@@ -2572,7 +2576,9 @@
       - هوا
       - havA
      back:
+      - weather, air
       - weather
+      - air
    - front:
       - دریا
       - dariA
@@ -2711,8 +2717,8 @@
      back:
       - winter solstice
    - front:
-      - آنار
-      - AnAr
+      - انار
+      - anAr
      back:
       - pomegranate
    - front:
@@ -2760,7 +2766,9 @@
       - pirAhan
       - piran
      back:
+      - shirt, dress
       - shirt
+      - dress
    - front:
       - بهترین
       - behtarin
@@ -3052,9 +3060,9 @@
    - front:
       - حتّی
       - حتی
-      - hattA ###
-      - hatti ###
+      - hattA
      back:
+      - even (if)
       - even
    - front:
       - دعا کردن
@@ -3076,13 +3084,14 @@
       - طرف
       - taraf
      back:
-      - side ###
+      - side
    - front:
       - عدّه
       - عده
       - eddE
      back:
-      - group? ###
+      - group (of people)
+      - group
    - front:
       - ماندن
       - mAndan
@@ -3096,8 +3105,8 @@
      back:
       - taste
    - front:
-      - بذر
-      - bazr
+      - نذر
+      - nazr
      back:
       - vow
    - front:
@@ -3125,7 +3134,7 @@
       - ایستگاه
       - istgAh
      back:
-      -
+      - station
    - front:
       - باریدن
       - bAridan
@@ -3133,7 +3142,7 @@
       - to rain
       - rain
    - front:
-      - بقیه ###^^
+      - بقیه #یّ###^^
       - baqiiE
      back:
       - rest, remainder
@@ -3190,14 +3199,11 @@
       - resAndan
       - resundan
      back:
-      - to cause to reach, to deliver
-      - to cause to reach
-      - cause to reach
       - to deliver
       - deliver
    - front:
-      - سنک
-      - sanok
+      - سبک
+      - sabok
      back:
       - light
    - front:
@@ -3213,7 +3219,7 @@
       - 3rd
    - front:
       - عالی
-      - 'ali
+      - Ali
      back:
       - excellent
    - front:
@@ -3337,7 +3343,7 @@
    - front:
       - راندن
       - rAndan
-      - rundan ###
+      - rundan
      back:
       - to drive
       - drive
@@ -3350,7 +3356,8 @@
       - شرکت
       - sherkat
      back:
-      - participation
+      - participation; company
+      - company
    - front:
       - شرکت کردن
       - sherkat kardan
@@ -3403,7 +3410,9 @@
       - بزرگان
       - bozorgAn
      back:
+      - the great, esteemed
       - the great
+      - esteemed
    - front:
       - به‌به
       - bahbah
@@ -3413,8 +3422,10 @@
       - حضرت
       - hazrat
      back:
+      - honorable; prophet
       - honorable
       - honourable
+      - prophet
    - front:
       - خسته
       - xastE
@@ -3431,6 +3442,7 @@
       - rAst
      back:
       - right
+      - correct
    - front:
       - شنیدن
       - shenidan
@@ -3452,7 +3464,7 @@
       - قبلا
       - qablan
      back:
-      - ???
+      - before
    - front:
       - قبول کردن
       - qabul kardan
@@ -3460,8 +3472,8 @@
       - to accept
       - accept
    - front:
-      - فرن
-      - farn
+      - قرن
+      - qarn
      back:
       - century
    - front:
@@ -3485,6 +3497,9 @@
       - negAh kardan
      back:
       - to look
+      - look
+      - to watch
+      - watch
    - front:
       - هروقت
       - harvaqt
@@ -3495,7 +3510,7 @@
       - هیچ‌وقت
       - hichvaqt
      back:
-      - never ###???
+      - never
    - front:
       - یکی یکی
       - yeki yeki
@@ -3505,12 +3520,13 @@
 - name: Book 2, Lesson 14
   cards:
    - front:
-      - اطّلاع
-      - اطلاع
-      - ettelA'
+      - اطّلاعات
+      - اطلاعات
+      - ettelA'At
      back:
       - information
    - front:
+      - اطّلاع دادن
       - اطلاع دادن
       - ettelA' dAdan
      back:
@@ -3529,9 +3545,10 @@
       - sign
    - front:
       - اسکناس
-      - eskendAs
+      - eskenAs
      back:
-      - money??? ###
+      - bill (cash)
+      - bill
    - front:
       - بانک
       - bAnk
@@ -3562,7 +3579,7 @@
      back:
       - happy
    - front:
-      - خوش گذاشتن
+      - خوش گذشتن
       - xosh gozashtan
      back:
       - to have a good time
@@ -3577,7 +3594,7 @@
       - be made
    - front:
       - ریختن
-      - dixtan
+      - rixtan
      back:
       - to pour
       - pour
@@ -3642,7 +3659,10 @@
       - دفترچه
       - daftarche
      back:
-      - ??? ###
+      - checkbook; small notebook
+      - checkbook
+      - small notebook
+      - notebook
    - front:
       - چک
       - chek
@@ -3702,6 +3722,8 @@
       - be dalil
       - be dalile
      back:
+      - because of, by reason of
+      - because of
       - by reason of
    - front:
       - تالار
@@ -3722,7 +3744,7 @@
    - front:
       - تمدّن
       - تمدن
-      - tamaddan
+      - tamaddon
      back:
       - civilization
    - front:
@@ -3776,7 +3798,8 @@
       - تابلو
       - tAblo
      back:
-      - painting ??? ###
+      - framed art
+      - frame
    - front:
       - سینما
       - sinamA
