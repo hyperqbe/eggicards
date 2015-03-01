@@ -136,8 +136,21 @@ GameSession.prototype.classifyCard = function (card) {
 }
 
 GameSession.prototype.cardIsDone = function (card) {
-  var threshold = (card.misses === 0) ? 3 : 6;
-  return card.hitStreak >= threshold;
+  var progress = this.cardProgress(card);
+  return progress[0] >= progress[1];
+}
+
+GameSession.prototype.cardProgress = function (card) {
+  var threshold = (card.misses == 0) ? 3 : 6;
+  var hits = card.hitStreak;
+  if (hits > threshold) {
+    hits = threshold;
+  }
+  return [hits, threshold];
+}
+
+GameSession.prototype.cardScore = function (card) {
+  return [card.hits, card.hits + card.misses];
 }
 
 GameSession.prototype.pickNextCard = function() {
@@ -148,16 +161,13 @@ GameSession.prototype.pickNextCard = function() {
     cardsByState[statesInOrder[i]] = [];
   }
   
-  var allDone = true;
   for (var i = 0; i < this.cards.length; i++) {
     var card = this.cards[i];
     var state = this.classifyCard(card);
 
-    if (!this.cardIsDone(card)) allDone = false;
-
     cardsByState[state].push(card);
   }
-  if (allDone) { alert('###you win!'); return null; }
+
   for (var i = 0; i < statesInOrder.length; i++) {
     var cards = cardsByState[statesInOrder[i]];
     if (cards.length > 0)
@@ -167,15 +177,32 @@ GameSession.prototype.pickNextCard = function() {
 
 GameSession.prototype.showCard = function (card) {
   this.cardsShown++;
-  this.currentCard = this.pickNextCard()
+  this.currentCard = card;
   this.currentCard.lastShownTime = this.cardsShown
   this.userInterface.showQuestion(this.currentCard);
   this.timer = null;
 }
 
+GameSession.prototype.updateStats = function () {
+  var totalScore = [0, 0];
+  var totalProgress = [0, 0];
+  for (var i = 0; i < this.cards.length; i++) {
+    var card = this.cards[i];
+    var progress = this.cardProgress(card);
+    totalProgress[0] += progress[0];
+    totalProgress[1] += progress[1];
+    var score = this.cardScore(card);
+    totalScore[0] += score[0];
+    totalScore[1] += score[1];
+  }
+  this.userInterface.setProgress(totalProgress[0]/totalProgress[1])
+  this.userInterface.setScore(totalScore[0]/totalScore[1])
+}
+
 GameSession.prototype.guess = function (value) {
   var success = this.currentCard.guess(value);
   this.userInterface.showAnswer(this.currentCard, success);
+  this.updateStats();
   var gameSession = this;
   this.timer = window.setTimeout(
       function () {
@@ -232,6 +259,8 @@ function UserInterface(gameSession) {
   this.responseElem = document.getElementById('response');
   this.radioFrontElem = document.getElementById('radiofront');
   this.radioBackElem = document.getElementById('radioback');
+  this.progressElem = document.getElementById('progress');
+  this.scoreElem = document.getElementById('score');
 
   this.setGameSession(gameSession);
 }
@@ -314,6 +343,24 @@ UserInterface.prototype.setOptions = function(options) {
     optionElem.text = options[i];
     this.selectElem.add(optionElem);
   }
+}
+
+// progress is a float between 0.0 and 1.0
+UserInterface.prototype.setProgress = function(progress) {
+  if (!isFinite(progress)) {
+    this.progressElem.innerHTML = '&mdash;'
+    return
+  }
+  this.progressElem.innerHTML = (progress*100).toFixed(0).toString() + '%';
+}
+
+// score is a float between 0.0 and 1.0
+UserInterface.prototype.setScore = function(score) {
+  if (!isFinite(score)) {
+    this.scoreElem.innerHTML = '&mdash;'
+    return
+  }
+  this.scoreElem.innerHTML = (score*100).toFixed(0).toString() + '%';
 }
 
 var gameSession = new GameSession(YAML.load('decks.yaml'))
