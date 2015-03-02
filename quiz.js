@@ -253,6 +253,7 @@ var Colors = {
 function UserInterface(gameSession) {
   this.questionElem = document.getElementById('question')
   this.formElem = document.getElementById('responseform')
+  this.deckSelectFormElem = document.getElementById('deckselectform')
   this.answerElem = document.getElementById('answer')
   this.cardElem = document.getElementById('card')
   this.selectElem = document.getElementById('deckselect')
@@ -280,14 +281,13 @@ UserInterface.prototype.setGameSession = function(gameSession) {
       return false;
     }
   }
-  this.selectElem.onchange = function() {
-    gameSession.processDeckChange();
-  }
-  this.radioFrontElem.onchange = function() {
-    gameSession.processDeckChange();
-  }
-  this.radioBackElem.onchange = function() {
-    gameSession.processDeckChange();
+
+  this.deckSelectFormElem.onsubmit = function() {
+    try {
+      gameSession.processDeckChange();
+    } finally {
+      return false;
+    }
   }
 }
 

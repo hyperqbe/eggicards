@@ -18,8 +18,6 @@ body {
 }
 .question, .answer {
   font-size: xx-large;
-  border-style: dotted;
-  border-color: black;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
