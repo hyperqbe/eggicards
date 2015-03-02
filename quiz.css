@@ -16,7 +16,7 @@ body {
   box-shadow: 3px 3px 5px #aaaaaa;
   margin: 10px;
 }
-.question, .answer {
+.question, .answer, .secondaryanswer {
   font-size: xx-large;
   text-align: center;
   margin-left: auto;

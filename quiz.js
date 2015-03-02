@@ -1,3 +1,23 @@
+function finglify(s) {
+  mapping = {
+    'q': 'gh',
+    'x': 'kh',
+    'A': 'aa',
+    'E': 'eh',
+  };
+  s = s.replace(/([AEIOUaeiou])i([AEIOUaeiou])/, '$1y$2')
+  var result = ''
+
+  for (var i = 0; i < s.length; ++i) {
+    if (s[i] in mapping) {
+      result += mapping[s[i]];
+    } else {
+      result += s[i];
+    }
+  }
+  return result;
+}
+
 function Card(elem, isFrontSelected) {
   this.hits = 0;
   this.misses = 0;
@@ -7,14 +27,22 @@ function Card(elem, isFrontSelected) {
     this.question = elem.front[0];
     this.answer = elem.back[0];
     this.acceptableAnswers = elem.back;
+    this.secondaryAnswer = '';
   } else {
     this.question = elem.back[0];
     this.answer = elem.front[0];
     this.acceptableAnswers = elem.front;
+    var secondaryAnswer = '';
+    for (var i = 1; i < this.acceptableAnswers.length; ++i) {
+      if (i != 1) secondaryAnswer += ', ';
+      secondaryAnswer += finglify(String(this.acceptableAnswers[i]));
+    }
+    this.secondaryAnswer = secondaryAnswer;
   }
   // YAML treats strings that parse as numbers as numerical.  We want to
   // compare strings, so we convert all answers to strings.
   this.answer = String(this.answer);
+  this.secondaryAnswer = String(this.secondaryAnswer);
   for (var i = 0; i < this.acceptableAnswers.length; i++) {
     this.acceptableAnswers[i] = String(this.acceptableAnswers[i])
   }
@@ -255,6 +283,7 @@ function UserInterface(gameSession) {
   this.formElem = document.getElementById('responseform')
   this.deckSelectFormElem = document.getElementById('deckselectform')
   this.answerElem = document.getElementById('answer')
+  this.secondaryAnswerElem = document.getElementById('secondaryanswer')
   this.cardElem = document.getElementById('card')
   this.selectElem = document.getElementById('deckselect')
   this.responseElem = document.getElementById('response');
@@ -314,12 +343,14 @@ UserInterface.prototype.showQuestion = function(card) {
   this.questionElem.innerHTML = card.question;
   // We use &nbsp; to make sure that the answer element retains its height.
   this.answerElem.innerHTML = '&nbsp;';
+  this.secondaryAnswerElem.innerHTML = '&nbsp;';
   this.cardElem.style.backgroundColor = UserInterface.cardColor(card);
 }
 
 UserInterface.prototype.showAnswer = function(card, success) {
   this.questionElem.innerHTML = card.question;
   this.answerElem.innerHTML = card.answer;
+  this.secondaryAnswerElem.innerHTML = card.secondaryAnswer;
   this.cardElem.style.backgroundColor =
       success ? Colors.RIGHT_ANSWER : Colors.WRONG_ANSWER;
 }
